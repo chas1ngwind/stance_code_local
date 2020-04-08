@@ -1,0 +1,914 @@
+,claims,perpectives,undermine_score,support_score,predict_label,gold_label
+0,School Day Should Be Extended,Not enough fundng...,-0.9363995999999999,1.0870366000000002,1,0
+14,Raise The School Leaving Age To 18,Little is accomplished when education is forced.,-1.8032172,2.4115667000000003,1,0
+16,Raise The School Leaving Age To 18,Forced Education Achieves Little,-0.7703380999999999,0.9162488000000001,1,0
+17,Raise The School Leaving Age To 18,Not all skills are best learnt in a classroom environment.,-1.5698819,2.0495080000000003,1,0
+18,Raise The School Leaving Age To 18,Some skills are better learned outside the classroom.,-0.91301185,1.1318482,1,0
+31,Raise The School Leaving Age To 18,Young people should have the choice to decide for themselves,-1.5782008,2.0711522,1,0
+32,Raise The School Leaving Age To 18,Young people should have the freedom to make their own choices.,-1.9647689,2.590893,1,0
+33,Raise The School Leaving Age To 18,Young people should be able to think for themselves and make their own decisions.,-1.9910888999999998,2.6325126,1,0
+35,Raise The School Leaving Age To 18,Not everyone is good at studying,-2.0078673,2.659577,1,0
+47,Make all museums free of charge,State funding should be used elsewhere,-1.9711173,2.6138567999999998,1,0
+62,Chess must be at the Olympics,Opening up the Olympics for borderline sports is bad in itself,-0.2684828,0.20309463,1,0
+64,Chess must be at the Olympics,Olympic sports are suppose to be physical,-1.6009096999999999,2.0797906000000004,1,0
+74,‘The Spear’ should have remained on public display.,Public Decency,-0.79768074,0.9520533999999999,1,0
+78,Federal States are better than unitary nations,Losers abound in federal states.,-0.31801853,0.29763812,1,0
+81,Federal States are better than unitary nations,"Federal governments often extend their powers and usurp local authority, especially if one or more federal units are disproportionately powerful.",-0.5191667000000001,0.6052611999999999,1,0
+84,The Catholic Church needs reform,"Currently the Catholic Chuch focuses on loyalty to the church itself, not those they serve.",0.49795696,-0.45717147,0,1
+85,The Catholic Church needs reform,"The Catholic Church wants loyalty to institution, not to the common man.",0.64645255,-0.56185997,0,1
+88,The Catholic Church needs reform,"If priests were not forced to be celibate, the issue of child rate would not be as widespread.",0.46182612,-0.39289063,0,1
+89,The Catholic Church needs reform,One of the reasons clerical child rape has happened is due to priests being forced to remain celibate.,0.45777085,-0.413397,0,1
+91,Positive Discrimination Towards Women in Society Is Justified,Positive discrimination towards women should not be allowed,-0.5901308000000001,0.5703041,1,0
+92,Positive Discrimination Towards Women in Society Is Justified,"It is Men, Not Women, who are Disadvantaged in our Society",-0.69402766,0.7750979,1,0
+93,Positive Discrimination Towards Women in Society Is Justified,Will Cause Resentment Between Men and Women,-0.8525925999999999,1.0051211,1,0
+104,Positive Discrimination Towards Women in Society Is Justified,Positive discrimination for women is discrimination,-0.49575114,0.5246558000000001,1,0
+106,Positive Discrimination Towards Women in Society Is Justified,Positive discrimination takes away voters' freedom of choice by limiting their choices to women,-0.019823581,0.021796674,1,0
+112, College education is worth it,Many people succeed without college degrees.,-0.97233367,1.186816,1,0
+115, College education is worth it,Many college graduates are employed in jobs that do not require college degrees.,-1.4495176,1.9510794999999999,1,0
+117, College education is worth it,More and more college educated people are accepting jobs for which they do not need a college education. ,-0.33089957,0.3415411,1,0
+133, College education is worth it,Too many students earning degrees has diluted the value of a bachelor's degree.,-1.4367527,1.9066536,1,0
+134, College education is worth it,The value of a bachelor's degree has lessened.,-1.4437978,1.9338453000000002,1,0
+135, College education is worth it,A bachelor's degree is considered standard now.,-1.4844607,1.9286511000000002,1,0
+155, College education is worth it,Many recent college graduates are un- or underemployed.,-0.31137420000000005,0.29739827,1,0
+156, College education is worth it,"In recent times, there are significant numbers of unemployed and underemployed college graduates. ",-0.748492,0.9217255,1,0
+157, College education is worth it,"Among those who are unemployed and underemployed, there are many college graduates. ",-0.9521901,1.1492308,1,0
+163, College education is worth it,Learning a trade profession is a better option than college for many young adults.,-0.45061769999999995,0.48932767,1,0
+164, College education is worth it,Young adults should consider learning a trade instead of going to college.,-0.31103259999999994,0.34879740000000004,1,0
+184,Socialism is Dead,Socialism has changed historically to meet the challenges of the moment and is addressing those of the 21st century in new ways,-0.4230713,0.4687948,1,0
+185,Socialism is Dead,Socialism can be molded to fit the needs of the moment. ,-1.0586289,1.318568,1,0
+186,Socialism is Dead,Socialism is a an ever changing set of principles that can be applied in new ways to meet the challenges of a changing world.,-0.5084725,0.5602625,1,0
+187,Socialism is Dead,socialism have changed and adapted to meet the upcoming challenges of the 21st century,-0.7761328000000001,0.91648227,1,0
+193,Socialism is Dead,Globalisation has made socialism impractical to implement,0.71259457,-0.67752016,0,1
+196,Socialism is Dead,Socialism outranks capitalism in security.,-0.6521988000000001,0.7046226,1,0
+205,There is life after death,yes there is a heaven and a hell,0.41386480000000003,-0.26475108,0,1
+209,College football should replace the bowl championship series (BCS),The BCS rankings are designed to favor consistency over the course of the entire season.,-1.2682765,1.5970982,1,0
+210,College football should replace the bowl championship series (BCS),"A playoff system would not mean the end of the BCS rankings, which could still be used to determine the top 4, 8, 12, or 16 teams, depending on how many playoff games are feasible.",2.3844779,-2.4012666,0,1
+217,Pensions should be privatised,Government pension schemes are not a viable or sustainable option.,2.3059227000000004,-2.340664,0,1
+222,Pensions should be privatised,State involvement in pensions is deleterious to both pensioners and the state.,2.5746990000000003,-2.598888,0,1
+224,Pensions should be privatised,Historical evidence has shown that privatisation has been unsuccessful,-1.0129348,1.2108707,1,0
+226,You have nothing to worry about surveillance if you have done nothing wrong,Lack of trust,-0.66021043,0.6978005,1,0
+227,You have nothing to worry about surveillance if you have done nothing wrong,There is no trust,-0.05786787,0.06656344,1,0
+228,You have nothing to worry about surveillance if you have done nothing wrong,Trust is missing.,-0.67920315,0.7251935,1,0
+230,You have nothing to worry about surveillance if you have done nothing wrong,The use of meta data causes unintentional harm,-0.6101001,0.6797308000000001,1,0
+231,You have nothing to worry about surveillance if you have done nothing wrong,Abuse of information and power by intelligence agencies,-0.7492433000000001,0.80777717,1,0
+232,You have nothing to worry about surveillance if you have done nothing wrong,Agencies use surveillance to abuse their power.,-0.8948011,1.0428584,1,0
+233,You have nothing to worry about surveillance if you have done nothing wrong,Power trips can be had by agencies.,-0.9495358,1.1076958000000001,1,0
+234,You have nothing to worry about surveillance if you have done nothing wrong,Loss of Privacy,-0.6655724000000001,0.71944904,1,0
+238,You have nothing to worry about surveillance if you have done nothing wrong,information gathered  can be used to fight terrorism .,0.2776289,-0.06114421,0,1
+240,The use of animals as objects of sport and entertainment should be banned.,Fighting bulls have a better quality of life than meat-producing bulls,-0.4071474,0.43231696,1,0
+243,The use of animals as objects of sport and entertainment should be banned.,The need for pest control or conservation does not justify blood sports. ,0.24078965,-0.23051378,0,1
+244,The use of animals as objects of sport and entertainment should be banned.,Pest control or conservation arguments does not rationalize our use of animals as objects in blood sports.,1.680178,-1.6031051,0,1
+245,The use of animals as objects of sport and entertainment should be banned.,The use of animals as objects in blood sports cannot be justified by the week argument that it provides benefit through pest control or conservation.,-0.0054644197,-0.030893207000000002,0,1
+250,The use of animals as objects of sport and entertainment should be banned.,Animals should not be treated as objects or property as doing so allows them to be treated amorally.,0.1043455,-0.043657972999999996,0,1
+255,The use of animals as objects of sport and entertainment should be banned.,It is not possible to harmlessly have animals as entertainment,0.11735766,-0.12004616,0,1
+261,The use of animals as objects of sport and entertainment should be banned.,Bullfighting is too dangerous to humans to justify,2.527791,-2.5753790000000003,0,1
+262,The use of animals as objects of sport and entertainment should be banned.,Bullfighting is dangerous for humans and should be banned.,0.23007792,-0.19822963,0,1
+272,"In Parliamentary Democracies, A Change Of Prime Minister Should Automatically Trigger A General Election.",The concept overestimates the role of the Prime Minister,-0.59368104,0.637079,1,0
+276,We must support the use of truth and reconciliation commissions,Reconciliation can be used to conceal political corruption and patrimony,-1.9042861,2.5838313,1,0
+277,We must support the use of truth and reconciliation commissions,reconciliation can be used for political corruption,-1.6158485,2.1424894,1,0
+278,We must support the use of truth and reconciliation commissions,reconciliation can help to conceal corruption,-2.0466492,2.7433348,1,0
+289,Puerto Rico should seek American statehood,Peurto Rico should be an American state.,0.14896789,-0.079752505,0,1
+290,Puerto Rico should seek American statehood,English is not a problem for Puerto Rican statehood,1.050832,-0.9420096,0,1
+296,There is a good case for stating that there is a God,'God' is merely a concept designed to promote a set of values,-0.67954874,0.7977272,1,0
+297,There is a good case for stating that there is a God,People think that a benevolent God cannot exist because bad things happen...,-0.5659281,0.6002542,1,0
+298,There is a good case for stating that there is a God,"If there is a god, its the sun.",-0.6541157,0.75218725,1,0
+299,There is a good case for stating that there is a God,Life is ridiculous without a God.  Belief in God is the only sane thing we discuss.,0.2646441,-0.21801014,0,1
+303,There is a good case for stating that there is a God,God is a concept dreamed up by optimistic people.,-1.359326,1.8025748,1,0
+312,Animal testing should be banned.,"Animal researchers treat animals humanely, both for the animals' sake and to ensure reliable test results.",-0.353709,0.3804602,1,0
+313,Animal testing should be banned.,Animals are treated well during animal testing. ,-0.8141651,0.99373585,1,0
+314,Animal testing should be banned.,Research animals are well treated ,-1.0994538999999999,1.3632245,1,0
+316,Animal testing should be banned.,Animals don’t have human rights,-0.092059396,0.06924394,1,0
+324,Animal testing should be banned.,Testing is needed for really new drugs,-1.6957296000000002,2.2160382000000003,1,0
+325,Animal testing should be banned.,We need to be able to test drugs on animals.  ,-1.2756041,1.6409515,1,0
+326,Animal testing should be banned.,Animal research is only used when it’s needed,-0.40462494,0.4754227,1,0
+327,Animal testing should be banned.,We try to only use animal testing when it is needed.  ,-0.94298947,1.1727633,1,0
+329,Animal testing should be banned.,Animal research ensures greater safety for humans,-0.41117013,0.42138302,1,0
+330,Animal testing should be banned.,Animal testing has contributed to many life-saving cures and treatments.,-0.44928149999999994,0.5585175,1,0
+332,Animal testing should be banned.,Animal research has played a vital role in a great many of the major medical advances of the last century,-0.53668535,0.6433935000000001,1,0
+335,Animal testing should be banned.,Drugs that pass animal tests are not necessarily safe.,1.0226209000000002,-0.96508753,0,1
+336,Animal testing should be banned.,Animals themselves benefit from the results of animal testing.,-0.7511102,0.901374,1,0
+337,Animal testing should be banned.,Most animals that are used in scientific testing have better lives. ,-0.75120634,0.9109261999999999,1,0
+338,Animal testing should be banned.,Religious traditions allow for human dominion over animals.,-0.6892894,0.77263296,1,0
+340,Animal testing should be banned.,"Number 2 is a lie, there ARE alternatives to animal testing! Other companies use them, and animal testing doesnt prove anything, because although close, they arent people.",0.3569449,-0.24146381,0,1
+341,Animal testing should be banned.,Animal tests may mislead researchers into ignoring potential cures and treatments.,2.6240678,-2.7169054,0,1
+342,Animal testing should be banned.,Animal tests do not reliably predict results in human beings.,0.77175885,-0.6760495,0,1
+343,Animal testing should be banned.,Animal tests are more expensive than alternative methods and are a waste of government research dollars.,0.52589095,-0.30770248,0,1
+345,Animal testing should be banned.,Animals often make better research subjects than human beings because of their shorter life cycles.,-0.6053189,0.6667109999999999,1,0
+347,Animal testing should be banned.,Animals are appropriate research subjects because they are similar to human beings in many ways. ,-0.15387449,0.20837313,1,0
+348,Animal testing should be banned.,Some cosmetics and health care products must be tested on animals to ensure their safety.,-0.27020082,0.2617936,1,0
+349,Animal testing should be banned.,Medical breakthroughs involving animal research may still have been made without the use of animals.,0.55830604,-0.48568374,0,1
+350,Animal testing should be banned.,Medical breakthroughs can be achieved without doing any scientific or commercial experiment on animals ,0.43422812,-0.3757499,0,1
+353,Animal testing should be banned.,Animal testing dosen't ensure good results,0.90864396,-0.8205769,0,1
+355,Animal testing should be banned.,animal experiments are not always accurate,0.77218103,-0.6731441999999999,0,1
+372,Instant Replay Should Be Used in Major League Baseball,Instant replay will take the human element out of baseball,-0.29752526,0.31052196,1,0
+373,Instant Replay Should Be Used in Major League Baseball,Why even have an umpire if every play can be instantly replayed?,-0.8812665000000001,1.042306,1,0
+374,Instant Replay Should Be Used in Major League Baseball,"It’s not possible to get every call right, so instant replay is a necessary supplement to umpires’ skill",0.17248473,-0.18433341,0,1
+378,Instant Replay Should Be Used in Major League Baseball,Instant replay will make long MLB games even longer.,-0.7990096999999999,0.9361939,1,0
+390,Kill One to Save Many,We cannot make any judgments about whose life is valuable and whose is not,-0.06628251,0.03508819,1,0
+391,Kill One to Save Many,Killing is worse than letting someone die,-0.6095759,0.6575089,1,0
+396,It is fine to kill one to save many,"It is unacceptable to live in a world where killing is ever justified, no matter how many lives it may save.",-0.35454047,0.3683027,1,0
+400,It is fine to kill one to save many,The possibility for the universal recogonition that killing is wrong can be deduced by pure intuition.,-1.6839210999999998,2.2508216,1,0
+404,Attorney-client privilege should be abolished,The principle behind attorney-client privilege is declining in relevance,0.52255505,-0.33279914,0,1
+405,Attorney-client privilege should be abolished,Attorney client privilege need not be sacrosanct in all situations,0.10403671,0.038343173,0,1
+406,Companies should provide alternative interview methods,Can't get a realistic impression of a person in such a short space of time.,0.31726336,-0.3337417,0,1
+410,Africa is really rising,Majority of states are still undemocratic,-0.06322939,0.10685039999999998,1,0
+415,Sanctions should be used to promote democracy,Sanctions do not harm the right people.,-0.9032848,1.0612489999999999,1,0
+419,Those affected by climate change should get compensation,It is hard to apportion blame,-0.8973549000000001,1.1521626,1,0
+423,It is a good idea to have a system of  participatory democracy,Participatory Democracy Facilitates the Misrepresentation of Issues ,0.025850243999999998,0.052737944,1,0
+436,Transparency is necessary for security,"Without transparency, mistakes would be easier to come by and more difficult to correct.",1.7481446,-1.6154392,0,1
+442,Transparency is necessary for security,Transparency can result in normalisation,-1.7745404999999999,2.402924,1,0
+450,Animals should be kept in zoos,"Animal research may be valuable, but it does not need to happen in the context of confinement and human entertainment.",-0.54866475,0.5345287,1,0
+452,Animals should be kept in zoos,Wild Animals Are Not Domesticated,-0.7015216,0.8289538000000001,1,0
+460,Europe should be federal,Existing contributive inequalities within the Union would be amplified by a formal federal system,-1.7069603,2.2696316000000003,1,0
+461,Europe should be federal,Formal federalism creates extra inequalities.,-1.6475816000000003,2.1659322,1,0
+476,Parents should have the right to do background checks on those looking after their children,Would be very hard to maintain,-1.1461047,1.448072,1,0
+483,Privacy Online is Important,The internet is a public space.,-1.4363899,1.8173482,1,0
+484,Privacy Online is Important,Only Criminals benefit from internet Privacy,-1.8142806,2.366098,1,0
+485,Privacy Online is Important,Internet privacy only helps criminals.,-0.588383,0.65112317,1,0
+486,Privacy Online is Important,Only wrong-doers benefit from internet privacy.,-0.87184525,1.0919149,1,0
+487,Privacy Online is Important,Online privacy only benefits those who commit crimes on the internet.,-0.7074939,0.7814415,1,0
+488,Privacy Online is Important,Criminals will be the only group benefited by online privacy.,-1.6058263000000002,2.0936303,1,0
+493,Privacy Online is Important,Users online would be unprotected from exploitation if it weren't for online privacy.,0.3564515,-0.2273178,0,1
+501,Encourage fewer people to go to university,"The question of whether or not a college education is necessary for success is one that is debated, as many successful people are not college educated.",0.17428678,-0.06227222,0,1
+504,Encourage fewer people to go to university,More and more college educated people are accepting jobs for which they do not need a college education. ,0.06609812,0.050771262000000004,0,1
+508,Encourage fewer people to go to university,College graduates are more likely to have health insurance and retirement plans.,-0.043378234,0.14039108,1,0
+509,Encourage fewer people to go to university,Those who graduate from college are more likely to have retirement plans and health insurance.,-0.52170944,0.5617025,1,0
+510,Encourage fewer people to go to university,Graduating from college increases the likelihood of having health insurance and a retirement plan.,-0.37882036,0.38951123,1,0
+513,Encourage fewer people to go to university,There are more students that are having their views and values shifted during college than in the past.,0.32081529999999997,-0.17627758,0,1
+516,Encourage fewer people to go to university,Children are typically healthier and more studious when their parents have graduated  college.,-0.40922567,0.44440457,1,0
+517,Encourage fewer people to go to university,More and more jobs require college degrees.,-0.6177965999999999,0.68828845,1,0
+519,Encourage fewer people to go to university,More jobs only hire those with college degrees.,-0.07618907,0.13905227,1,0
+520,Encourage fewer people to go to university,Too many students earning degrees has diluted the value of a bachelor's degree.,0.7585546,-0.52361083,0,1
+521,Encourage fewer people to go to university,The value of a bachelor's degree has lessened.,0.29790443,-0.03090468,0,1
+531,Encourage fewer people to go to university,Graduating from college can keep poverty at bay.,-0.6148831,0.67829275,1,0
+532,Encourage fewer people to go to university,College graduates make more money.,-0.44669908,0.44480565,1,0
+534,Encourage fewer people to go to university,College graduates do better financially.,-0.57440144,0.61568415,1,0
+535,Encourage fewer people to go to university,People who graduate from college have more earning power.,-0.22683504,0.24306545,1,0
+537,Encourage fewer people to go to university,Gaining a college education is money well spent. ,-0.12509495,0.17963281,1,0
+540,Encourage fewer people to go to university,Learning will always pay off. ,-0.27837249999999997,0.30705956,1,0
+550,Encourage fewer people to go to university,Learning a trade profession is a better option than college for many young adults.,0.11262344,0.00838162,0,1
+558,Encourage fewer people to go to university,"The more college graduates in one geographical area, the more higher-paying employers will be found",-0.2433571,0.25154099999999996,1,0
+573,We must enforce term limits on the legislative branch of government,Longer terms for Politicians could lead to unfairness in governing,2.9224916000000003,-3.0526942999999997,0,1
+574,We must enforce term limits on the legislative branch of government,"If a single leader sits on the throne for too long, it's more likely for the leader to exploit his or her power. ",0.6670308,-0.57097304,0,1
+577,We must enforce term limits on the legislative branch of government,"the longer someone is  in power, the more likely he will use it for personal advantage",0.76981664,-0.6078455,0,1
+578,We must enforce term limits on the legislative branch of government,"as times went one, the more someone is in control of his power, the more likely he will succumb to use such power for personal advantage",1.2981731,-1.1225116000000002,0,1
+582,We must enforce term limits on the legislative branch of government,Term limits should be voted on ,-1.5047993999999998,2.0128844,1,0
+588,We must enforce term limits on the legislative branch of government,Term limits allows new blood in the office and prevents one leader from staying in power for too long.,2.0318768,-2.0677418999999997,0,1
+594,We must enforce term limits on the legislative branch of government,The incentive for corruption and self-enrichment in office is increased by term limits:,-0.581994,0.762778,1,0
+600,We must enforce term limits on the legislative branch of government,"A strong, consistent executive may be desirable in many cases.",-1.9303162,2.5800872000000004,1,0
+601,We must enforce term limits on the legislative branch of government,"There are some circumstances when one would want a strong, consistent executive branch of government in place.",-1.4875688999999999,1.9598921999999999,1,0
+603,We must enforce term limits on the legislative branch of government,It may at some point be desirable to keep around a certain executive longer than terms decide,-1.162633,1.4487883999999998,1,0
+605,We must enforce term limits on the legislative branch of government,Freeing the executive from re-election concerns can help focus attention on the public interest,-1.6428502,2.2711756000000003,1,0
+606,We must enforce term limits on the legislative branch of government,"The executive branch of government, having no countervailing voices to the leader s’ within it, must be checked by limiting tenancy in office.",1.1728841,-1.0649256999999999,0,1
+607,We must enforce term limits on the legislative branch of government,"By imposing a term limit in office, we can limit the power of executive branch of government.",2.2756295,-2.315775,0,1
+610,We must enforce term limits on the legislative branch of government,the executives brances with no opposing voices to the leaders must be imposed term limits,1.0823954,-0.9695864,0,1
+611,Abolish the security council veto,"The veto power was granted legally to the P5 by the other participating states, and therefore the P5 have a right to those powers.",-1.7769866,2.3290637000000003,1,0
+612,Abolish the security council veto,It is appropriate for the veto power to remain in place.,-1.9743203999999999,2.6233892000000005,1,0
+623,Terrorism can be justified,Terrorism can lead to discussion,0.7121038000000001,-0.5691621,0,1
+627,We should make new years resolutions,A goal for a whole year is unrealistic.,-1.0908158000000001,1.3420761,1,0
+628,People should have a right to private education,Private schools encourage elitism,-1.7048324000000001,2.2793245,1,0
+640,People should have a right to private education,Removing 'choice' will improve the overall standard of our schools.,-2.0930133,2.6814456,1,0
+645,People should have a right to private education,Abolishing a good service on the basis that some cannot afford it is absurd,0.73516166,-0.7569159000000001,0,1
+647,People should have a right to private education,It's ridiculous to abolish a good service based on inability to afford.,1.2723825,-1.2106597,0,1
+652,People should have a right to private education,The goverment can't afford to take on more school children,0.36222997,-0.38922638,0,1
+653,People should have a right to private education,More school children would be a hardship on the government.,2.921659,-3.1214461,0,1
+662,Abolish the Superdelegate System for Democratic Party Conventions,Candidates solicitation of superdelegates damages the political system and requires candidates to go through contortions to secure their support,2.6977055,-2.7670484,0,1
+666,The republican party has lost its way,Having won the economic argument during the Reagan years – both with Russia and the Democratic Party – the Republicans now address social concerns and do so with a consistent message.,-0.68670505,0.81048906,1,0
+667,The republican party has lost its way,"The leadership of the Republican Party simply has nothing to do with its membership as a result no candidate has, or can, capture the imagination.",0.31545722,-0.17207482,0,1
+669,permit the use of performance enhancing drugs in professional sports,"There is no distinction between ""natural"" and synthetic methods of performance enhancement",1.7214487,-1.6179986000000002,0,1
+670,permit the use of performance enhancing drugs in professional sports,"Controlling, rather than ignoring, performance enhancing substances will improve competitive standards in sport",0.714214,-0.59601635,0,1
+673,permit the use of performance enhancing drugs in professional sports,Taking more risks in training and competition would allow athletes the freedom to become the best competitors they can be.,1.0701431000000001,-0.9510133,0,1
+688,Handguns must be banned in Washington D.C.,The majority of Americans support allowing the concealed carry of handguns.,-0.9442953000000002,1.1219431,1,0
+689,Handguns must be banned in Washington D.C.,Many of the American adults are in favour of carrying concealed handguns,-1.3345388,1.6560127,1,0
+690,Handguns must be banned in Washington D.C.,Carrying a concealed handgun could help stop a public shooting spree.,-0.6155575,0.7079818,1,0
+691,Handguns must be banned in Washington D.C.,"In view of the continuous public shooting , carrying a concealed handgun by adults can stop such shooting spree",-0.83103406,0.99820554,1,0
+692,Handguns must be banned in Washington D.C.,The occurrence of public shooting spree can be prevented by the usage of concealed handguns by adults,-1.8935796999999999,2.4809206,1,0
+693,Handguns must be banned in Washington D.C.,Hand Guns Are Required For Self Defence.,-0.7504915,0.8923629000000001,1,0
+697,Handguns must be banned in Washington D.C.,"Public safety should be left to professionally qualified police officers, not private citizens with little or no expert training.",0.803018,-0.7135736999999999,0,1
+698,Handguns must be banned in Washington D.C.,"The safety of the public should be the responsibility of trained police officers, rather than private citizens with minimal training",0.16240692,-0.08293608,0,1
+699,Handguns must be banned in Washington D.C.,"Only police officers, who have received professional qualifications, should protect the safety of the public, not private individuals who have not received such training",0.071918055,-0.06630356,0,1
+703,Rupert Murdoch is not a fit person to run an international media corporation,There was a lack of transparency in News Corp,0.5687072,-0.45566148,0,1
+704,Rupert Murdoch is not a fit person to run an international media corporation,News Corp's lack of transparency make it a suspect organization.,0.24011488,-0.19986956,0,1
+709,Rupert Murdoch is not a fit person to run an international media corporation,Murdoch is effective at selling news,-0.5289273,0.55678266,1,0
+710,Rupert Murdoch is not a fit person to run an international media corporation,"Murdoch is effective at selling news to the masses, sadly because of his lack of morals.",-0.46920925,0.49110124,1,0
+711,Rupert Murdoch is not a fit person to run an international media corporation,Murdoch excels at sensational headlines making for effective sales.,-1.0122753,1.2457452,1,0
+714,It is worth voting,Voice your opinions.,0.03854221,-0.022521317000000003,0,1
+722,It is worth voting,Politicians don’t engage with issues that are important to me,-0.05174999,0.029102355,1,0
+727,Civil liberties should be sacrificed for the greater good,The threat of terrorism and security risks are overstated.,-1.1807020000000001,1.5130463,1,0
+731,Civil liberties should be sacrificed for the greater good,It would be letting the terrorists win,-0.29138407,0.28686264,1,0
+732,Civil liberties should be sacrificed for the greater good,The terrorists would win in that case!,-0.7328129,0.8677832000000001,1,0
+733,Civil liberties should be sacrificed for the greater good,That is an open invitation for the terrorists.,-0.66667783,0.8142738,1,0
+738,Fighting should be allowed in hockey.,Fighting is a hockey tradition that exists in the official rules and as an unwritten code among players.,0.29626763,-0.22185389999999997,0,1
+740,Fighting should be allowed in hockey.,Fighting in hockey glorifies violence.,-2.0177476000000003,2.6968312,1,0
+741,Fighting should be allowed in hockey.,Fighting in hockey can promote violence,-0.7954565,1.0717971000000002,1,0
+742,Fighting should be allowed in hockey.,Hockey fights can glorify violence,-2.063064,2.7075223999999998,1,0
+743,Fighting should be allowed in hockey.,The great aspect of the game of hockey are overshadowed by the unnecessary brutality displayed during brawls.,-0.51877505,0.6144309,1,0
+744,Fighting should be allowed in hockey.,An overemphasis is given to the violence that accompanies fighting in hockey.,-0.63666314,0.7971600000000001,1,0
+751,Animals have rights.,Even if we did think that animals were less intelligent than humans beings they should be protected by rights,0.42497307,-0.3479538,0,1
+754,Animals have rights.,Animals should be left in the wild,2.0461354,-1.9901733,0,1
+755,The Internet must be censored,Censorship is fundamentally incompatible with the notion of free speech.,-0.5092125,0.58258355,1,0
+756,The Internet must be censored,Internet Content must not be Censored because we are a country of free speech!,-0.4269516,0.42570204,1,0
+757,The Internet must be censored,Internet censorship a violation of freedom of speech,-0.20649028,0.25451595,1,0
+762,The Internet must be censored,Even sites that appeared innocent have had a devastating effect on society.,0.27168226,-0.32466707,0,1
+763,The Internet must be censored,It is difficult to ascertain at a glance which websites are harmful.,0.16637808,-0.12977901,0,1
+764,The Internet must be censored,The Internet is a free domain and cannot becontrolled by the government.,-0.6680967,0.7490518,1,0
+765,The Internet must be censored,The government has no control over free domain and therefore cannot censor the internet.,-0.29640394,0.2847732,1,0
+767,The Internet must be censored,Other forms of media are regulated and the internet is no different.,0.9802526,-0.7991538,0,1
+768,The Internet must be censored,We must apply the same standards to internet regulation that we apply to all media.,0.7876005,-0.57176626,0,1
+770,We support the New START Treaty,The New START treaty helps Russia more than the US,-0.71614254,0.75930643,1,0
+771,We support the New START Treaty,The New START treaty favors Russia over the US.,-1.6804550999999999,2.1319256,1,0
+772,We support the New START Treaty,The New START treaty is better for Russia than for the US. ,-0.5909661,0.62521493,1,0
+777,Christianity is the greatest deception of today,"Christianity may be a deception but it's not the ""greatest"" one",1.886681,-1.7942008999999999,0,1
+780,Christianity is the greatest deception of today,"It isn't christianity that's the deception, organised religion is!",-0.48893473,0.46626666,1,0
+781,Christianity is the greatest deception of today,Christianity is not a deception!,-0.22826993,0.22874567,1,0
+782,Christianity is the greatest deception of today,Christianity is not a lie!,-0.72207737,0.7957928000000001,1,0
+783,Christianity is the greatest deception of today,Christianity is not dishonest!,-1.0540916999999999,1.2455921,1,0
+798,Force think tanks to reveal all of their sources of funding,Private investors have a right to privacy,-1.8377645,2.4865994,1,0
+799,Force think tanks to reveal all of their sources of funding,Privacy is a right to private investors.,-1.0850215,1.3473582,1,0
+800,Force think tanks to reveal all of their sources of funding,The right to privacy includes private investors.,-1.1661097,1.4427862,1,0
+804,Force think tanks to reveal all of their sources of funding,Think tanks may become smoke screens for criminal groups,2.6552796,-2.7461247,0,1
+805,Force think tanks to reveal all of their sources of funding,Crime groups use think tanks to confuse people.,2.9330096,-3.0671988,0,1
+808,Fines should be made relative to income,Creates the perception that the rich are not immune to the consequences of their actions,0.29815596,-0.33413213,0,1
+810,Fines should be made relative to income,"Creates the perception that fines are like taxes, rather than a punishment",-0.3364165,0.30764693,1,0
+811,Fines should be made relative to income,A flat rate is more just,-0.8896822,1.0741372999999999,1,0
+823,The United States is a ‘benign’ hegemon,"The US is not a hegemon at all, but an imperialist power-an empire. ",-0.1757154,0.11256124,1,0
+824,The United States is a ‘benign’ hegemon,The United States is a de facto empire.,-1.2238586999999999,1.5635633,1,0
+826,The United States is a ‘benign’ hegemon,The US is less of a hegemon and more of an imperial empire,-0.5206606,0.5369229999999999,1,0
+827,The United States is a ‘benign’ hegemon,The US is more like an imperial power and less like a hegemon,-0.27931643,0.25456965,1,0
+828,Eritrea is responsible for its isolation,Eritrea is surrounded by hostile nations ,-1.109595,1.4397558000000001,1,0
+834,The full financial history of all candidates for political office must be posted online,"Individuals have a right to privacy, including to their own financial records",-1.8372654,2.4749832,1,0
+853,Pre-nuptial agreements should not be recognised in divorce courts,Pre-nuptial agreements conditions differ from future reality,0.836254,-0.74398357,0,1
+854,Pre-nuptial agreements should not be recognised in divorce courts,The State imposed system is not objectively right for everybody,0.80479443,-0.7156316,0,1
+855,Pre-nuptial agreements should not be recognised in divorce courts,Prenuptial agreements should not be recognized in divorce courts,0.31893530000000003,-0.33911037,0,1
+856,Pre-nuptial agreements should not be recognised in divorce courts,Pre-nuptial agreements reduce trauma associated with divorce,-0.69329435,0.81978595,1,0
+857,Pre-nuptial agreements should not be recognised in divorce courts,Pre-nuptial agreements increase security,-0.41795266,0.41380730000000004,1,0
+860,Pre-nuptial agreements should not be recognised in divorce courts,Prenuptial agreements are either too lovely or not as lovely as they appear,2.109713,-2.0738497,0,1
+862,Downloading music without permission is morally equivalent to theft,Downloaders spend more on music,-0.24676615,0.373967,1,0
+863,Downloading music without permission is morally equivalent to theft,It is well know that people that download also purchase the most.,0.03063254,0.09965813,1,0
+864,Downloading music without permission is morally equivalent to theft,Downloads are also big spenders.,-0.41752177,0.44842386,1,0
+883,Violent Video Games Contribute to Youth Violence,The Responsibility Lies With Parents,-1.0015773000000001,1.2221117,1,0
+896,Smoking should be banned in public places,people have the right to smoke ,-1.6102355,2.0883648,1,0
+897,Smoking should be banned in public places,You should be able to smoke in public.,-1.5443166000000002,1.9901958999999998,1,0
+899,Smoking should be banned in public places,The decision to smoke is a human right.,-1.6238471,2.092298,1,0
+900,Smoking should be banned in public places,Smoking is a human right.,-0.6002861999999999,0.6712117,1,0
+901,Smoking should be banned in public places,"WHAT HAPPEN TO A FREE CANADA.  WE ARE GOING BACK TO THE TIME WERE SLAVES HAD NO RIGHT, NOW IT IS SMOKERS HAVE NO RIGHT",-0.6755126,0.7599226,1,0
+902,Smoking should be banned in public places,Taking away a smoker's rights to smoke in public is akin to the time of slavery!,-1.1688643,1.4323738000000001,1,0
+903,Smoking should be banned in public places,"How can this be a free Canada, if our right to smoke in public is taken away?",-0.8616304,0.9972773000000001,1,0
+904,Smoking should be banned in public places,"Canada is a free country, so we should be free to be able to smoke.",-1.0867331,1.3325424,1,0
+905,Smoking should be banned in public places,Being free to smoke is a basic right that someone in a free country should have.,-1.0908086000000001,1.3609176,1,0
+906,Smoking should be banned in public places,No - it should not be banned in places people CHOOSE to go  ,-0.38068159999999995,0.35238206,1,0
+907,Smoking should be banned in public places,A smoker should be allowed to smoke in any place that they have a choice to go to.,-1.3989022,1.792197,1,0
+908,Smoking should be banned in public places,"If I choose to go somewhere, I should be allowed to smoke there.",-1.2823622,1.5939292,1,0
+909,Smoking should be banned in public places,"Since people are choosing whether to go to places, smoking shouldn't be banned there,",-0.073607065,0.0819165,1,0
+910,Smoking should be banned in public places,Smoking shouldn't be banned in places where people choose to be.,-0.3036353,0.29069418,1,0
+911,Smoking should be banned in public places,Banning smoking isn't necessary.,-0.3783636,0.34498292,1,0
+914,Smoking should be banned in public places,It's not necessary to ban smoking.,-0.18340687,0.12808928,1,0
+920,Smoking should be banned in public places,Smoking shouldnt be banned,-0.020459592,0.035122663,1,0
+921,Smoking should be banned in public places,Pack labelling or taxation a better alternative,-0.39739,0.4054866,1,0
+922,Smoking should be banned in public places,Ban would harm the wider economy,-0.6596767,0.7624744000000001,1,0
+926,Smoking should be banned in public places,Unenforceable,-0.54581565,0.5942513,1,0
+931,We should abolish speed cameras,Caught on film you can't deny responsibility for your actions.,-0.74714595,0.8602735,1,0
+932,We should abolish speed cameras,Traffic cams can't be avoided and neither can you avoid responsibility for driving actions.,-0.5058478,0.5095945,1,0
+933,We should abolish speed cameras,Abolishing speed cameras makes drivers feel less responsible.,-0.6341331,0.7180586999999999,1,0
+935,We should abolish speed cameras,Driving behaviour has not changed since cameras were introduced,0.10425082,0.06093461,0,1
+938,We should abolish speed cameras,"Better car and medical technology has saved lives, not cameras",1.0154756999999999,-0.73935425,0,1
+948,We must bring back corporal punishment,It is the duty of the state to avoid using corporal punishment when they need to solve social problems.,-0.14431734,0.12813997,1,0
+951,We must bring back corporal punishment,"Flogging will be over-utilised, rehabilitation will be under-utilised ",-0.5282637,0.57639265,1,0
+952,Scotland should cede from the union.,The many hidden subsidies to SE England would end.,-0.49286652,0.5321263,1,0
+957,Scotland should cede from the union.,Scotland's economy cannot survive if it doesn't have England to lean on.,-0.5255482,0.5549911,1,0
+967,US must get rid of the double jeopardy rule,Double jeopardy ensures defendants are not brought to trial on weak grounds,-0.63269264,0.64687157,1,0
+968,US must get rid of the double jeopardy rule,Defendants aren't brought to trial unnecessarily because of double jeopardy.,-0.92789334,1.0823742,1,0
+969,US must get rid of the double jeopardy rule,The double jeopardy principle ensures that only strong cases are brought against defendants.,-1.286453,1.6557743999999999,1,0
+983,Humans should eat meat,Humans need to consume meat.,0.1407132,-0.16611813,0,1
+984,Humans should eat meat,We shouldn't eat as muh meat.,-0.6256956,0.7005564000000001,1,0
+986,Humans should eat meat,We should stop eating so much meat.,-0.11433414,0.3791603,1,0
+989,Humans should eat meat,It is okay for humans to eat animals.,0.26021704,-0.060985252000000004,0,1
+994,Humans should eat meat,Farming of animals causes suffering and is wrong.,-0.43173933,0.4923553,1,0
+995,Humans should eat meat,"Animal suffering is wrong; therefore, farming them is too, since it causes them to suffer.",-0.8024796,0.96191645,1,0
+997,Humans should eat meat,vegetarians visit hospitals 22% less often than meat eaters ,-0.61139196,0.7477968,1,0
+998,Humans should eat meat,Vegetarians visit hospitals 22% less than meat eaters.,-0.44625503,0.58666044,1,0
+999,Humans should eat meat,Vegetarians go to hospitals 22% less than meat eaters.,-0.3941883,0.52968687,1,0
+1000,The environment is being sacrificed for the economy,Air pollution will get even worse. ,1.2150815000000001,-0.98650646,0,1
+1004,Targeted online advertising on the basis of user profiles and demographics must be banned,Individual targeting undermines market and political fairness,0.7462344,-0.69852185,0,1
+1005,Targeted online advertising on the basis of user profiles and demographics must be banned,This advertising strategy provides benefits by making marketing more efficient and allows smaller markets to develop,-1.9432911,2.579533,1,0
+1006,Targeted online advertising on the basis of user profiles and demographics must be banned,This advertising strategy undermines people’s right to personal privacy,2.0987575,-2.0869613,0,1
+1008,Gorbachev Was Responsible for The Collapse Of The USSR,The System Needed to Change in Order to Survive in the Longer Term; That Mikhail Gorbachev’s Reforms Failed Showed that the USSR Could Not be Saved,-0.8645457000000001,1.0083232,1,0
+1010,Gorbachev Was Responsible for The Collapse Of The USSR,Lenin and Stalin the real destroyers of the USSR for destroying Socialism’s Appeal,-0.7669389,0.9579966999999999,1,0
+1011,Major league baseball should continue to allow collisions at home plate,Collisions are an example of violence that has no place in baseball.  ,-0.593457,0.7251316,1,0
+1016,Major league baseball should continue to allow collisions at home plate,The safety concerns about collision are overblown,1.2395641000000002,-1.1770787,0,1
+1017,Major league baseball should continue to allow collisions at home plate,There is an overreaction to the dangers of collisions,1.2125715,-1.069664,0,1
+1027,Major league baseball should continue to allow collisions at home plate,"Without collisions, either the catcher or the runner would have an enormous and unfair advantage.  ",1.4080151,-1.3192376000000001,0,1
+1028,Major league baseball should continue to allow collisions at home plate,The catcher or runner would have a ridiculous advantage if collisions were not allowed.,1.2581848999999998,-1.1259811000000002,0,1
+1038,Individuals have a moral obligation to assist people in need,Only help those who ask for it and that too at your discretion,-1.9887846000000002,2.667984,1,0
+1039,Individuals have a moral obligation to assist people in need,Should we as people help everyone or only certain ones.,-1.9903598999999998,2.6369352000000004,1,0
+1040,Individuals have a moral obligation to assist people in need,Individuals should help everyone.,-2.0101723999999996,2.6506288,1,0
+1041,Individuals have a moral obligation to assist people in need,"People have the freedom to choose whether they want to dedicate their time to helping others, and help should only be given to those who ask for it.",-2.067193,2.6904984,1,0
+1042,Individuals have a moral obligation to assist people in need,"Help should only be provided to those that want it, and individuals should be able to choose if they want to help or not.",-2.0256263999999997,2.6551156000000002,1,0
+1043,Individuals have a moral obligation to assist people in need,It would be nice if everyone would help those in need but it cant't be forced and people have to make those decisions on their own. ,-0.75893617,0.8353371999999999,1,0
+1050,History as a subject in school is needed,history repeats itself if not known,0.96107364,-0.7872135,0,1
+1054,History as a subject in school is needed,"History lessons can be used as state-sponsored propaganda, distorting the events of the past",-0.930607,1.1539124,1,0
+1055,History as a subject in school is needed,History teaching will reflect the erroneous preconceptions and aims of those who set the curriculum,-0.600381,0.7633840000000001,1,0
+1075,Golf is a Sport,"Golf involves competition, keeping score, and declaring a winner, but those qualities alone do not make it a sport. ",-0.022538729,0.041493192000000005,1,0
+1081,Golf is a Sport,Golf is not physically demanding enough to be a sport.,-0.04828401,0.025057305,1,0
+1082,Golf is a Sport,"If you can compete in golf with a handicap, then it is not a sport.",-0.11590778,0.12461678,1,0
+1083,Golf is a Sport,"Even people with broken limbs can play golf, which makes it not a real sport.",-0.5429948,0.6105329,1,0
+1084,Golf is a Sport,"If an activity does not make you break a sweat, or if it can be done while drinking and smoking, then it is not a sport. ",-0.584113,0.62303996,1,0
+1085,Golf is a Sport,"Because you can play golf without breaking a sweat, and drink and smoke while doing it,  it is not a sport. ",-0.27263916,0.25935256,1,0
+1086,Golf is a Sport,Golf is not a sport because you can play it without breaking a sweat and while you are drunk. ,-0.17539056,0.19893068,1,0
+1092,Golf is a Sport,"There should be some risk to be considered a real sport, which golf does not have.",-0.06582597,0.07378118,1,0
+1097,Golf is a Sport,Even if you are really athletic does not mean you will do well at golf.,-0.07819526,0.04273998,1,0
+1099,Golf is a Sport,Golf better matches the definition of a game than a sport. ,-0.36204138,0.387454,1,0
+1100,Golf is a Sport,The definition of a game is a better match to golf than the definition of a sport. ,-0.48788708,0.536402,1,0
+1101,Golf is a Sport,Golf is the match to a game more than a match to a sport. ,-0.67697084,0.76809514,1,0
+1106,Golf is a Sport,There are many commonalities between golf and other sports. ,0.10001726,-0.021163157999999998,0,1
+1107,Golf is a Sport,Contrary to public opinion golf does have a lot more commonalities with other sports than most realize. ,1.7193766,-1.5904416000000001,0,1
+1109,Golf is a Sport,"Unlike a sport, golf does not require rigorous physical activity. ",-0.130918,0.1097882,1,0
+1115,Roger Federer Is Not the Greatest Tennis Player of All Time,He has dominated like no one else before,-0.77992964,0.8644938,1,0
+1116,Roger Federer Is Not the Greatest Tennis Player of All Time,Federer has a great tennis record.,-2.0570338,2.6933307999999996,1,0
+1117,Roger Federer Is Not the Greatest Tennis Player of All Time,Federer is one of the best tennis players of all time.,-1.2368456,1.5842389,1,0
+1118,Roger Federer Is Not the Greatest Tennis Player of All Time,He has a losing record against Rafael Nadal. How can you be the best of all time if you're not even the best of your own era?,0.4839303,-0.42289099999999996,0,1
+1119,Roger Federer Is Not the Greatest Tennis Player of All Time,Is not even the best in his current generation,0.4115304,-0.36402762,0,1
+1120,Roger Federer Is Not the Greatest Tennis Player of All Time,He has just won Wimbledon 2012 (17th grand slam) and gone back to number 1 again,-1.2883409,1.5695355,1,0
+1121,Roger Federer Is Not the Greatest Tennis Player of All Time,Federer has won 17 grand slams.,-1.7274933000000001,2.2477498,1,0
+1124,Roger Federer Is Not the Greatest Tennis Player of All Time,He is the all-time career money leader,-0.9063742,1.0210143,1,0
+1125,Roger Federer Is Not the Greatest Tennis Player of All Time,Federer is the Greatest EVER!,-0.52564824,0.5325538000000001,1,0
+1126,Roger Federer Is Not the Greatest Tennis Player of All Time,Federer has a record that will be hard to beat.,-0.6007676,0.6351532,1,0
+1127,Roger Federer Is Not the Greatest Tennis Player of All Time,Federer has won many games which is very hard for peopple to do.,-1.208978,1.5312097,1,0
+1130, Aboriginal culture must be protected,"We cannot understand ourselves if we cannot understand others, so protection of indigenous culture is important.",1.2872671,-1.1577201000000001,0,1
+1133, Aboriginal culture must be protected,In the past we have oppressed native peoples and we must learn from that so we do not do it again.,1.1274841999999998,-0.9761675,0,1
+1138, Aboriginal culture must be protected,Culture provides no tangible benefit that justifies the use of government funds to preserve it.,-0.17993875,0.14163336,1,0
+1142,Music That Glorifies Crime Should Be Banned,Censoring Art Is Dangerous,-0.9090282,1.1064563,1,0
+1147,Music That Glorifies Crime Should Be Banned,violent music harms families ,0.56891334,-0.40467995,0,1
+1155,Music That Glorifies Crime Should Be Banned,People are justified in listening to violent music,-1.4471101999999998,1.9320537,1,0
+1156,Music That Glorifies Crime Should Be Banned,People have the right to listen to whatever music they want to.,-1.879707,2.5205536,1,0
+1164,Music That Glorifies Crime Should Be Banned,Music about violence against women  doesn't help the perception of women,0.037810467,-0.04606105,0,1
+1168,Music That Glorifies Crime Should Be Banned,Banning this music that glorifies violence is totally impractical.,-0.22778691,0.20312229,1,0
+1170,Music That Glorifies Crime Should Be Banned,Defending hip hop artists’ right to free speech,-0.9297943000000001,1.0805207000000001,1,0
+1171,Music That Glorifies Crime Should Be Banned,everyone deserves free speech,-1.1839986999999998,1.4587702,1,0
+1172,Music That Glorifies Crime Should Be Banned,hip hop artists have a right to free speech,-0.6775423,0.7576890000000001,1,0
+1174,Money undermines sport’s values,Sports loses its value because of the large amount of money involved.,-1.0346502,1.3593861999999999,1,0
+1175,Money undermines sport’s values,College sports should be for competition not money.,-0.9802298,1.2261819999999999,1,0
+1187,Compensation should be paid for those who have had their culture appropriated,it is immportant for the communities to get the credit they deserve through compensation,0.09122526,-0.023958176,0,1
+1190,Compensation should be paid for those who have had their culture appropriated,No feasible system of which grounds of compensation can occur because of the fluidity of culture and cultural identity,-1.4772035,1.9506116000000002,1,0
+1194,Mixed Martial Arts (UFC) is a form of human cockfighting,"Depending where you are in the world, some of the rules do appear brutal",1.0764171,-0.8824907,0,1
+1196,Store nuclear waste underground,Storing nuclear waste underground is necessary - there are no better option available,1.2232946000000002,-1.1108223,0,1
+1197,Store nuclear waste underground,Nuclear waste can be put to beneficial uses,-0.97007287,1.2516241000000001,1,0
+1198,Store nuclear waste underground,Nuclear waste can be used in other forms of power generation,-0.48088545,0.6437632,1,0
+1199,Store nuclear waste underground,Underground nuclear storage is safer than any available alternative,0.5442952,-0.2806012,0,1
+1202,Store nuclear waste underground,Underground nuclear storage is excessively expensive,-0.23187716,0.25805297,1,0
+1256,Drones Should Be Used to Take Out Enemy Combatants,Terrorists are created by drone strikes.,-0.12520882,0.13998313,1,0
+1291,Drones Should Be Used to Take Out Enemy Combatants,US drone strikes give cover for other countries to engage in human rights abuses. ,-0.3132781,0.31798813,1,0
+1293,Drones Should Be Used to Take Out Enemy Combatants,"When the U.S. uses drone strikes abroad, it gives those nations permission to participate in human rights infringement.",-1.2059221000000002,1.513843,1,0
+1307,Evolution has Disproved Creationism,Creationism can't explain the fossil record.,2.597506,-2.6067665,0,1
+1308,Evolution has Disproved Creationism,The Bible says God created the world,-1.6433263999999999,2.119701,1,0
+1312,Evolution has Disproved Creationism,"There is no empirical evidence supporting Creationism, whereas all evidence supports abiogenesis and evolution.",0.8780471,-0.77150965,0,1
+1313,Evolution has Disproved Creationism,The scientific community as a whole overwhelmingly rejects Creationism.,1.0860435,-0.9056183000000001,0,1
+1314,Evolution has Disproved Creationism,Creationism isn't supported by the scientific community.,1.9313657,-1.8903278000000001,0,1
+1315,The Uhuru Kenyatta indictment was an unwelcome interference by the ICC,Kenya can prosecute these crimes itself,-0.8191431,1.0728908000000001,1,0
+1344,You should never have children,It is our mission to have children,-0.77110064,0.89554083,1,0
+1345,You should never have children,The purpose of life is to have children,-0.6765733,0.73210645,1,0
+1346,You should never have children,The act of having children makes people more desirable citizens.,-0.8521665999999999,0.9931711,1,0
+1347,You should never have children,Having children makes you a better citizens,-0.629138,0.7140656,1,0
+1348,You should never have children,People are better citizens when they have children,-0.7865151,0.96932745,1,0
+1349,Anarchism is a valuable political ideology,Anarchy has nothing to contribute but violence.,-0.12610638,0.06322199,1,0
+1354,Anarchism is a valuable political ideology,Community action is a more powerful tool than the state for providing goods.,0.07575987,-0.06641956,0,1
+1357,Voting should be compulsory in the UK,A vote cast by someone who does not want to vote is unlikely to be based on careful consideration.,-0.2711091,0.28059572,1,0
+1375,Voting should be compulsory in the UK,Weekend voting would be a more sensible solution,-1.9621351000000002,2.6323998,1,0
+1378,Voting should be compulsory in the UK,People rebel from rules and do what they want anyway,-0.12655428,0.14486793,1,0
+1379,Voting should be compulsory in the UK,Policing and financing the system is unmanageable,-0.32291418,0.29006922,1,0
+1381,Voting should be compulsory in the UK,It is unreasonable to expect that compulsory voting could be financed and verified.,-0.6185901999999999,0.7515482,1,0
+1382,Voting should be compulsory in the UK,There are alternatives that tackle the real causes of voter disengagement,-0.11440137,0.18838227,1,0
+1389,Voting should be compulsory in the UK,It will reduce the power of special interest groups,0.7090187,-0.5994971,0,1
+1390,The Schengen Agreement must be dissolved,The Schengen Area eases the free movement of goods and people that the EU strives for,-0.9484545,1.2830636999999998,1,0
+1391,The Schengen Agreement must be dissolved,"Schengen tightens external borders, creating a ‘wall’ around Europe. ",-0.9782001,1.2809018,1,0
+1392,The Schengen Agreement must be dissolved,Schengen creates an invisible wall around Europe ,-1.4423169,1.873231,1,0
+1396,The Schengen Agreement must be dissolved,The Schengen Agreement is both a symbol of and fundamental means of upholding the unity of the European Union,0.031813182,0.20355245,1,0
+1399,The Schengen Agreement must be dissolved,Schengen has allowed cooperation in fighting global crime,-0.25110520000000003,0.40085912,1,0
+1400,The Schengen Agreement must be dissolved,Schengen helps countries work together to abolish crime,-0.597749,0.75141525,1,0
+1401,The Schengen Agreement must be dissolved,Schengen allows countries to aid each other in their quest to abolish crime on a global scale,-0.43171877,0.62359107,1,0
+1402,The Schengen Agreement must be dissolved,The Schengen Agreement is an anachronism of a safer age. ,-1.1994673,1.6217167,1,0
+1417,Users of extremist websites should be punished,"Everyone, even extremists, deserve their freedom of expression protected",-1.0284176,1.3402339,1,0
+1424,Alcohol should be banned.,Banning Alcohol will improve health,0.08995426,0.034216955,0,1
+1428,Children should not be allowed to inherit vast wealth as this damages them and society,"Who decides how much is too much, and on what basis? ",-0.46313146,0.48087219999999997,1,0
+1429,Children should not be allowed to inherit vast wealth as this damages them and society,Society can never ensure that all children start on an 'equal footing' and why would it want to?,-0.48041302,0.5173359000000001,1,0
+1431,Children should not be allowed to inherit vast wealth as this damages them and society,Giving massive wealth to children would demotivate them and make them less productive for society.,-0.6074712,0.6644944,1,0
+1432,Children should not be allowed to inherit vast wealth as this damages them and society,Children who inherit riches are in a sense demotivated and as a result damaging towards society.,-0.9341565999999999,1.2006563000000001,1,0
+1434,Children should not be allowed to inherit vast wealth as this damages them and society,"The more money you have, the less spiritual you are.",0.41900983,-0.30198196,0,1
+1436,Children should not be allowed to inherit vast wealth as this damages them and society,"Inherited wealth demotivates the recipients so that they put less effort into training, education and social skills.",0.50831354,-0.41843152,0,1
+1437,Children should not be allowed to inherit vast wealth as this damages them and society,World economics would suffer,-0.4016686,0.41099949999999996,1,0
+1439,The People’s Republic of China should invade North Korea,It is far too expensive.,-0.20757511,0.15466923,1,0
+1444,The People’s Republic of China should invade North Korea,North Korea is a threat to China in the future and a nuisance now.,2.262803,-2.2486136,0,1
+1445,The People’s Republic of China should invade North Korea,North Korea is both an annoyance now and a threat in the future to China.,2.1603397999999996,-2.1425642999999996,0,1
+1446,The People’s Republic of China should invade North Korea,"For China, North Korea is a current nuisance and a future threat. ",2.5965786,-2.6281466,0,1
+1449,The UK Should Leave the European Union,one point that is always not mentioned is the EU is part of the New World Order,-0.01610554,0.06471236,1,0
+1469,The UK Should Leave the European Union,Security is better shared,-0.5549874,0.60718465,1,0
+1470,The UK Should Leave the European Union,UK security strongest when shared with EU.,-0.13373220000000002,0.12081978,1,0
+1472,The UK Should Leave the European Union,Security is stronger when there are others involved,-0.14867233,0.12354053599999999,1,0
+1473,The UK Should Leave the European Union,It is better protection when others are also sharing some of that responsibility ,-1.2082627000000001,1.5412648000000002,1,0
+1479,Keep the Sabbath as a Day of Rest,"Recreation should be when people want, not when told to by religion",-0.2798965,0.2228598,1,0
+1483,Keep the Sabbath as a Day of Rest,Sabbath day puts the emphasis on family and away from commercial activity,1.601445,-1.4877040000000001,0,1
+1489,Send Yanukovych to The Hague,Yanukovych committed crimes against humanity,1.1084462,-1.05392,0,1
+1490,Send Yanukovych to The Hague,Immoral crimes were committed by Yanukovych. ,0.59976596,-0.5748055000000001,0,1
+1492,Send Yanukovych to The Hague,Yanukovych crimes are against humanity.,0.0033813268,-0.008922409000000001,0,1
+1493,Send Yanukovych to The Hague,Would prevent division,0.20041957,-0.14656544,0,1
+1494,Send Yanukovych to The Hague,Does Yanukovych really qualify for the ICC?,-0.51070726,0.5614009,1,0
+1495,Send Yanukovych to The Hague,Do you think Yanukovych qualifies for the ICC?,-1.7268131000000002,2.273578,1,0
+1496,Send Yanukovych to The Hague,Should Yanukovych be tried at the ICC?,-1.3375561000000002,1.746243,1,0
+1498,Send Yanukovych to The Hague,Should be tried at home,-0.8876175,1.0389297,1,0
+1499,Send Yanukovych to The Hague,Yanukovych should be tried at home.,-1.5697229,2.0972299999999997,1,0
+1500,Send Yanukovych to The Hague,Home is where Yanukovych should be tried.,-1.1307534,1.4228861000000002,1,0
+1503,It should be allowed to have military recruitment in schools,Military recruitment in schools provides more propaganda than it does education.,-0.46183103,0.48278640000000006,1,0
+1513,It should be allowed to have military recruitment in schools,"Military recruiters downplay the risks of a military career, tempting schoolchildren into a career they would not have chosen with honest information.",-0.530521,0.6221186,1,0
+1521,It should be allowed to have military recruitment in schools,The military should not target children for service as they are too young.,-0.84727633,0.95817155,1,0
+1531,Deny Organs to Non-Donors,People may have valid religious reasons not to donate organs,-0.21253368,0.1785999,1,0
+1533,Deny Organs to Non-Donors,What if your loved-one was a recipient?,-1.2990389999999998,1.6150407,1,0
+1538,Domestic intelligence agencies have a legitimate role to play in democracy,Intelligence agencies inflate threats.,-0.15078901,0.19961937,1,0
+1540,Domestic intelligence agencies have a legitimate role to play in democracy,Intelligence agencies use hyperbole when describing threats.,-1.6223919,2.1875467,1,0
+1542,Domestic intelligence agencies have a legitimate role to play in democracy,It can be self-serving for intelligence agencies to over exaggerate threats.,-1.9953104,2.6518245,1,0
+1550,Domestic intelligence agencies have a legitimate role to play in democracy,Citizens have a right to privacy against the government.,-1.6727208999999998,2.2344918,1,0
+1551,Domestic intelligence agencies have a legitimate role to play in democracy,Government sponsored domestic intelligence cannot be allowed to spy on citizens.,-1.0834941999999999,1.2812446000000002,1,0
+1556,Prisoners Should Be Used For Medical Experiments Without Consent,Against morality and medical ethics,-0.949875,1.0979303,1,0
+1557,Prisoners Should Be Used For Medical Experiments Without Consent,Against the Principle of  Criminal Justice ,-0.72488725,0.8547372999999999,1,0
+1558,Prisoners Should Be Used For Medical Experiments Without Consent,No Cruel and Unusual Punishment,-0.86323315,1.0425519,1,0
+1560,Prisoners Should Be Used For Medical Experiments Without Consent,Protection of prisoner's rights,-0.65799844,0.7216224,1,0
+1561,Prisoners Should Be Used For Medical Experiments Without Consent,It is acceptable to infringe on the rights of criminals sentenced to the death penalty in order to save massive quantity of human life and preserve the continuity of the human race.,2.6975875,-2.7517099999999997,0,1
+1563,Labels on food must be mandated to encourage people to eat better,Food labeling allows companies to deceive consumers,-1.7547043999999998,2.376957,1,0
+1564,Labels on food must be mandated to encourage people to eat better,"By labeling their foods, companies are able to convince consumers of falsehoods. ",-1.3457028999999998,1.7562681,1,0
+1573,Labels on food must be mandated to encourage people to eat better,"When foods go unlabeled, consumers lack a vital form of protection.",2.0095782,-1.9868591,0,1
+1579,Labels on food must be mandated to encourage people to eat better,Nutrition labeling on packages can encourage consumers to buy certain types of foods over others.,-1.5772126,2.0726228,1,0
+1586,Macs are better than PCs,Macs are more secure,0.008451596,-0.02447543,0,1
+1591,Macs are better than PCs,Macs are more performance than pc's,1.5249825000000001,-1.3800821,0,1
+1592,Macs are better than PCs,"PCs lack the performance offered in many Mac machines, making the Macs significantly superior",0.5425025,-0.51484615,0,1
+1599,Adding artificial happy endings to a story completely ruins it,Hopeful endings are important for morale,-0.78667355,1.001021,1,0
+1600,Adding artificial happy endings to a story completely ruins it,A good ending is good for morale.,0.03216867,0.25901493,1,0
+1601,Adding artificial happy endings to a story completely ruins it,"If there is hope at the end, it boost morale.",-1.0548521999999998,1.3980305,1,0
+1602,Adding artificial happy endings to a story completely ruins it,Truly faithful versions of fairy tales would be unsuitable for young children.,-0.45338142,0.47237626,1,0
+1603,Men are the key to family planning in Uganda,Family planning is wrong: controlling sexuality,-1.5911939,2.0972068,1,0
+1609,Remove the requirement for Catholic Priests to take a vow of celibacy,Celibacy is outdated,1.1893051000000001,-1.0239153,0,1
+1611,Remove the requirement for Catholic Priests to take a vow of celibacy,There is no longer any reason to maintain celibacy of priests.,0.26264155,-0.28672302,0,1
+1612,Remove the requirement for Catholic Priests to take a vow of celibacy,"Clerical rape of children is, in part, due to the celibacy of priests and must change",2.9290054,-3.0647387999999998,0,1
+1614,Remove the requirement for Catholic Priests to take a vow of celibacy,One of the reasons clerical child rape has happened is due to priests being forced to remain celibate.,1.6906009999999998,-1.5979944,0,1
+1618,Do not allow companies to collect/sell the personal data of their clients,The storing and sale of personal data aids companies by making marketing more efficient and allows niche markets to thrive,-0.2890768,0.22185929999999998,1,0
+1619,Do not allow companies to collect/sell the personal data of their clients,The sort of information being kept and sold is legitimate for firms to utilize in this fashion,-0.58089745,0.6032909000000001,1,0
+1620,Do not allow companies to collect/sell the personal data of their clients,Data breaches can result in huge amounts of personal data falling into unscrupulous hands,1.7604737000000001,-1.6296713,0,1
+1631,Homework is beneficial,Homework can get parents involved,2.9273841,-3.0703244,0,1
+1641,Homework is beneficial,Yes Homework Should Have A Limit,-1.0821941000000002,1.3394973999999997,1,0
+1642,Homework is beneficial,"Yes, it should.",-1.4634751,1.8913828999999998,1,0
+1650,Homework is beneficial,"Yes, kids need to balance out mental and physical exercise.",-1.7514826000000001,2.4095798,1,0
+1651,Homework is beneficial,Kids need time to do many different kinds of activities. ,-0.17096877,0.21877661,1,0
+1652,Homework is beneficial,There needs to be a balance for kids between mental and physical stimulation.,-1.9243907999999998,2.644563,1,0
+1653,Homework is beneficial,Mental stimulation and physical exercise need to have the proper balance in children.,-0.83190304,1.0892918,1,0
+1658,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",4. Gov is better suited than charities.,-0.7101361999999999,0.789726,1,0
+1659,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",The government is better equipped than charities,-0.6948933,0.76224107,1,0
+1660,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",The government can handle things better than charities,-1.0322574,1.2733946000000003,1,0
+1661,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",Financial assistance is not the government’s duty,2.2325304,-2.255032,0,1
+1662,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",The government is not responsible for financial assistance,0.73784184,-0.7084693,0,1
+1663,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",The government shouldn't pay for financial assistance,0.24869688,-0.24867222,0,1
+1664,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",Government's duty to remedy a social problem,-1.9873843999999998,2.6454725,1,0
+1665,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government","[Response to rebuttal] Suitability: Government has essential macro-view(scale&scope), and IS better organized, better funded.",-1.286808,1.6137005,1,0
+1666,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",Government is better organized,-1.4001665,1.8336459999999999,1,0
+1667,"Financial Assistance for the Poor Should Be the Responsibility of Charities, Not Government",Government has more resources,-1.795364,2.370511,1,0
+1670,The ICC is not an effective deterrent,The ICC’s investigations have already deterred potential crimes.,0.0066444054,0.10551050000000001,1,0
+1671,The ICC is not an effective deterrent,Investigations alone by the ICC deter crimes.,-0.5966836,0.64227414,1,0
+1672,The ICC is not an effective deterrent,Investigations by the ICC deter potential criminals.,-0.5740932,0.6299571999999999,1,0
+1676,The ICC is not an effective deterrent,The ICC’s widely endorsed authority extends its deterrent effects.,-0.26757333,0.24817461,1,0
+1677,The ICC is not an effective deterrent,The ICC's deterent effect is as wide as its authority is endorsed.,-0.09771473,0.113459975,1,0
+1678,The ICC is not an effective deterrent,Potential prosecution by the ICC encourages local authorities to improve their own judicial systems.,-0.5233316,0.52881306,1,0
+1690,The music that glorifies violence against women should be banned,Music about violence against women  doesn't help the perception of women,1.4824181,-1.385526,0,1
+1703,The music that glorifies violence against women should be banned,Censoring Art Is Dangerous,-0.18834466,0.26195583,1,0
+1709,The music that glorifies violence against women should be banned,People are justified in listening to violent music,-1.4928193,2.012162,1,0
+1710,The music that glorifies violence against women should be banned,People have the right to listen to whatever music they want to.,-0.3071835,0.34931365,1,0
+1720,African cities need to invest more in housing to replace slums,Tackling hazardous environments,1.0641334999999998,-0.9737238000000001,0,1
+1721,Mexican culture was incurably damaged by the introduction of Christianity,The Catholic Church saved the Mexican people by treating them as human beings and giving them the chance to live as free people.,-0.50898826,0.6011631,1,0
+1723,"Churches should (defined as churches, temples, mosques, synagogues, etc.) remain tax-exempt",Requiring churches to pay taxes would endanger the free expression of religion and violate the Free Exercise Clause of the First Amendment of the US Constitution.,2.7753707999999997,-2.8854165000000003,0,1
+1724,"Churches should (defined as churches, temples, mosques, synagogues, etc.) remain tax-exempt","Small churches, already struggling to survive, would be further endangered by a new tax burden. ",1.7631549,-1.6644221999999997,0,1
+1725,"Churches should (defined as churches, temples, mosques, synagogues, etc.) remain tax-exempt",Small churches who are struggling would be put at risk by the tax burden.,2.8004173999999997,-2.8969321,0,1
+1726,"Churches should (defined as churches, temples, mosques, synagogues, etc.) remain tax-exempt",Small churches would are in financial peril would be in a problematic situation by a new tax burden.,2.9543357000000006,-3.1025934,0,1
+1730,"Churches should (defined as churches, temples, mosques, synagogues, etc.) remain tax-exempt","American taxpayers are supporting the extravagant lifestyles of wealthy pastors, whose lavish ""megachurches"" accumulate millions of tax-free dollars every year. ",-0.49517703,0.5097224,1,0
+1740,The penny should stay in circulation,Eliminating pennies would save time at the point of purchase without hurting customers or businesses financially,-1.7781953000000001,2.360392,1,0
+1742,CCTV is a threat to freedom,information gathered used to fight terrorism,-1.8853503,2.5408552,1,0
+1743,CCTV is a threat to freedom,information gathered  can be used to fight terrorism .,-1.9231931,2.6154566000000004,1,0
+1744,CCTV is a threat to freedom,information gathered can be used to fight against radical terrorists. ,-1.8532021,2.508828,1,0
+1745,CCTV is a threat to freedom,freedom of privacy is threatened,2.7594072999999995,-2.8279428,0,1
+1746,CCTV is a threat to freedom,freedom of privacy is in jeopardy. ,2.889902,-3.016652,0,1
+1747,CCTV is a threat to freedom,freedom of privacy is in serious trouble.,2.8126194,-2.9058464,0,1
+1748,CCTV is a threat to freedom,No one will ever actually look at the information,-0.55893356,0.6421994000000001,1,0
+1749,CCTV is a threat to freedom,There are safeguards to prevent misuse,-1.9492531000000002,2.6707650000000003,1,0
+1754,CCTV is a threat to freedom,People will lose their privacy.,2.530859,-2.6364236,0,1
+1755,CCTV is a threat to freedom,Privacy will go away.,1.8193504,-1.7149177,0,1
+1756,Workers in the Transport Sectors Should Be Banned From Going On Strike,Giving transport workers the right to go on strike is good for the users  ,-1.0250287,1.3171296000000001,1,0
+1757,Workers in the Transport Sectors Should Be Banned From Going On Strike,Workers rights can still be protected,0.32943195,-0.3390434,0,1
+1758,Workers in the Transport Sectors Should Be Banned From Going On Strike,Strikes are unique means to attain leverage and their benefits weight more than their harms ,-1.7783046999999998,2.3194232000000006,1,0
+1759,Workers in the Transport Sectors Should Be Banned From Going On Strike,Strikes are the only way employees can gain leverage over their employers in negotiations.,-1.6747625,2.2235496,1,0
+1760,Workers in the Transport Sectors Should Be Banned From Going On Strike,"Strikes do more good than harm, since they allow employees to negotiate on an even playing field with their employers.",-0.117187954,0.17713538,1,0
+1761,Workers in the Transport Sectors Should Be Banned From Going On Strike,There are better ways to deal with strikes than putting people in Jail  ,-0.09569962,0.1736328,1,0
+1765,Workers in the Transport Sectors Should Be Banned From Going On Strike,The ability to strike allows unions to extort,0.48129416,-0.45736656,0,1
+1766,Workers in the Transport Sectors Should Be Banned From Going On Strike,Unions abuse the right to strike to extort from their employers.,2.0598326,-2.0338717,0,1
+1768,Workers in the Transport Sectors Should Be Banned From Going On Strike,The right to strike keeps negotiating power balanced  ,-0.60057706,0.64600474,1,0
+1773,The use of atomic bombs against Hiroshima and Nagasaki was justified,"before the atomic weaponry program could be compromised, the united states need to maximise its effectiveness",0.30270746,-0.19793037,0,1
+1774,The use of atomic bombs against Hiroshima and Nagasaki was justified,A negotiated peace would have been preferable to the dropping of the atomic bombs,-1.3053906000000002,1.6558498,1,0
+1775,The use of atomic bombs against Hiroshima and Nagasaki was justified,Talking it out would have been preferable.,-1.3128215,1.6782935,1,0
+1776,The use of atomic bombs against Hiroshima and Nagasaki was justified,Peace could have been reached via talks and negotiations.,-1.2389348999999998,1.6211628,1,0
+1777,The use of atomic bombs against Hiroshima and Nagasaki was justified,Dropping atomic bombs could have been preferably avoided with peace talks.,-0.6864763,0.79188883,1,0
+1778,The use of atomic bombs against Hiroshima and Nagasaki was justified,A peaceful negotiation would have been a better option than setting off atomic bombs.,-0.1014029,0.16475636,1,0
+1779,The use of atomic bombs against Hiroshima and Nagasaki was justified,It was not necessary to use atomic weapons on a population centre,-0.10224229,0.052438684000000006,1,0
+1780,The use of atomic bombs against Hiroshima and Nagasaki was justified,Bombing highly populated areas is wrong.,-0.44773358,0.50104356,1,0
+1781,The use of atomic bombs against Hiroshima and Nagasaki was justified,It is not required to bomb large cities.,-0.8673053,0.97107327,1,0
+1788,The use of atomic bombs against Hiroshima and Nagasaki was justified,The continuation of a conventional war would have been much costlier than an atomic attack,0.63511384,-0.50628304,0,1
+1791,The use of atomic bombs against Hiroshima and Nagasaki was justified,the continuation of the war without the nuclear bomb would have been much costlier,0.84946626,-0.6655015000000001,0,1
+1793,The use of atomic bombs against Hiroshima and Nagasaki was justified,The bombing was immoral and illegal,-1.1318443999999999,1.3818463,1,0
+1795,The use of atomic bombs against Hiroshima and Nagasaki was justified,It was illegal to drop the bombs as they were.,-0.21701911,0.16647975,1,0
+1796,The use of atomic bombs against Hiroshima and Nagasaki was justified,"Not only was the bombing illegal, it was morally wrong!",-1.1527706,1.403969,1,0
+1798,Oil Companies Should Not Be Allowed To Drill Offshore,Offshore drilling can cripple local economies.,2.4806345000000003,-2.559784,0,1
+1799,Oil Companies Should Not Be Allowed To Drill Offshore,Offshore drilling by oil companies can adversely impact local economies.,2.70425,-2.7687777999999996,0,1
+1801,Oil Companies Should Not Be Allowed To Drill Offshore,Offshore drilling prevents environmentally-unfriendly effects ,-1.2766604,1.587329,1,0
+1803,Oil Companies Should Not Be Allowed To Drill Offshore,The negative impact on the environment by oil company offshore drilling should be addressed.,-1.9864205000000001,2.6502757000000003,1,0
+1804,Open primaries are the most effective method of selecting candidates for elections,Open primaries will lead to an intensification of lobbying activities,-0.27320320000000003,0.37508902,1,0
+1805,Open primaries are the most effective method of selecting candidates for elections,A result of open primaries will be increased activity in the lobbying.,-1.0077893,1.2951030000000001,1,0
+1806,Open primaries are the most effective method of selecting candidates for elections,Lobbyists will increase their activity if open primaries exist.,-1.8376081999999998,2.4218888,1,0
+1808,Open primaries are the most effective method of selecting candidates for elections,Allowing open primaries will only encourage more lobbying ,-0.47704384,0.536281,1,0
+1813,Open primaries are the most effective method of selecting candidates for elections,Open primaries make it so that voters aren't locked into single party stance voting.,1.0985999,-0.94085425,0,1
+1823,Open primaries are the most effective method of selecting candidates for elections,Open primaries can be manipulated.,-1.2163502,1.6326844999999999,1,0
+1831,NATO countries and the government of Afghanistan should negotiate a power-sharing deal with the Taliban,"The war is too expensive, so a deal needs to be made to end it.",0.84978485,-0.80617225,0,1
+1837,NATO countries and the government of Afghanistan should negotiate a power-sharing deal with the Taliban,"Afghan history shows failings of foreign invasion, so this campaign is also doomed to failure.  ",-0.5739639,0.6146897,1,0
+1842,NATO countries and the government of Afghanistan should negotiate a power-sharing deal with the Taliban," The campaign is unpopular among the majority of NATO countries citizens, so we should solve the Afghan problem in diplomatic way, specifically through a power-sharing deal with the Taliban. ",2.7589973999999997,-2.8749647,0,1
+1845,Gabon hosting the Africa Cup of Nations was a good thing,Empty seats,-0.29386100000000004,0.29959962,1,0
+1852,Gabon hosting the Africa Cup of Nations was a good thing,Cost could be spent on other things,-0.9731588,1.2088088,1,0
+1858,Take a visit the Yasukuni Shrine,"War criminals should not be honored, even after they're dead.",-0.35552633,0.34514046,1,0
+1861,Gambling must be banned,Criminal activity often occurs at casinos.,0.28674695,-0.12531307,0,1
+1865,Gambling must be banned,Trying to ban gambling is a waste of time.,-0.27310634,0.24609514,1,0
+1873,Gambling must be banned,Casinos create positive economic effects in the communities that host them,-0.32732677,0.3054877,1,0
+1874,Gambling must be banned,Many communities benefit from the income from casinos.,-0.1657438,0.19067013,1,0
+1875,Gambling must be banned,Casinos support local communities financially.,-0.58081686,0.5875547,1,0
+1879,Gambling must be banned,Gambling is simply a leisure pursuit,-0.42946398,0.44784856,1,0
+1880,Faith schools must be banned,Creates animosity towards religious groups,-1.1192231000000001,1.3515028,1,0
+1881,Religious symbols in public buildings must be banned,"If you ban one thing, you have to ban lots of things.",-0.48227203,0.48415908,1,0
+1883,Religious symbols in public buildings must be banned,Banning religious symbols in public could lead to the banning of public political affiliation symbols.,-0.5995653000000001,0.7266184,1,0
+1884,Religious symbols in public buildings must be banned,Religious symbols cause division within Western society.,0.47705525,-0.36630934,0,1
+1886,Religious symbols in public buildings must be banned,Religious symbols are a reason for division within Western society. ,0.19886476,0.0021870919,0,1
+1887,Religious symbols in public buildings must be banned,Banning religious symbols is just a way of unfairly targeting people.,-1.0827194,1.3697069,1,0
+1889,Religious symbols in public buildings must be banned,Religious symbols in public offend some people. ,-0.7819272,0.91260123,1,0
+1890,Religious symbols in public buildings must be banned,Religious symbols cause problems in schools.,0.44666130000000004,-0.29297832,0,1
+1891,Religious symbols in public buildings must be banned,"When you have religious symbols in schools, there will be problems.",0.11668489,-0.01695332,0,1
+1893,Any work that is not released under a creative commons license shouldn't be funded,Government tends not to like creative commons.,-0.29978663,0.28243429999999997,1,0
+1894,Any work that is not released under a creative commons license shouldn't be funded,It's best for government not to use creative commons as an option. ,-0.21377295,0.17875782,1,0
+1895,Any work that is not released under a creative commons license shouldn't be funded,The creative commons is a more effective means for artists to build and expand their reach and markets than traditional copyright licensing arrangements,0.47277874,-0.2658459,0,1
+1896,Any work that is not released under a creative commons license shouldn't be funded,The Creative Commons licenses allows artists to reach their full potential.,0.7087419,-0.5598754,0,1
+1900,Inheritance tax should be raised to 100% for everyone born in the UK,Who says the government will spend the money well?,-1.9216296999999998,2.5670395,1,0
+1901,Inheritance tax should be raised to 100% for everyone born in the UK,What makes you think that money would be wisely spent?,-2.0375330000000003,2.6824722000000003,1,0
+1902,Inheritance tax should be raised to 100% for everyone born in the UK,Are you assuming the government would handle the money properly?,-1.7261376,2.3010478,1,0
+1904,Inheritance tax should be raised to 100% for everyone born in the UK,The inheritance tax is too much as it is and should be reduced.,-0.3734268,0.44890445,1,0
+1907,Inheritance tax should be raised to 100% for everyone born in the UK,Not everyone who passes on cash in their will is a millionaire,-0.5980409000000001,0.72354895,1,0
+1910,Inheritance tax should be raised to 100% for everyone born in the UK,the state should possess all assets owned by an individual after their death ,2.7604105,-2.8295972000000003,0,1
+1911,Inheritance tax should be raised to 100% for everyone born in the UK,People have a right to pass on the money they earned through hard work,-1.9834325000000002,2.6158363999999996,1,0
+1915,The EU should engage in further enlargement,The European Union is no longer in a financial position to be taking in new members.,-0.36351076,0.36222094,1,0
+1947,Sadomasochism must be decriminalized,The criminalisation of sadomasochism infringes on individual liberty,2.4178189999999997,-2.4650517000000005,0,1
+1948,Sadomasochism must be decriminalized,It is not possible to meaningfully consent to sadomasochistic sex,-0.46167579999999997,0.4649677,1,0
+1952,An international ban should be placed on the export of nuclear reactor technology,Humanitarian intervention becomes impossible in states that possess nuclear weapons,0.09341812,-0.09674084,0,1
+1953,An international ban should be placed on the export of nuclear reactor technology,Humanitarian missions would not be possible in states that have nuclear weapons.,1.2607882,-1.0912468000000002,0,1
+1954,An international ban should be placed on the export of nuclear reactor technology,It is very difficult to intercede in humanitarian crises in states wherein nuclear weapons are present.,0.8094876,-0.6777746,0,1
+1955,An international ban should be placed on the export of nuclear reactor technology,The threat of a state developing nuclear weapons could instigate pre-emptive strikes from its neighbours and rivals to prevent the acquisition of such weapons,2.3963597,-2.3734598,0,1
+1956,An international ban should be placed on the export of nuclear reactor technology,Other countries could strike against those developing nuclear weapons to protect themselves.,2.5528257,-2.5767536,0,1
+1957,An international ban should be placed on the export of nuclear reactor technology,"To keep other countries from obtaining a nuclear arsenal, other nations may pre-emptively strike.",0.71772224,-0.6191458000000001,0,1
+1958,An international ban should be placed on the export of nuclear reactor technology,The intention of a state to develop nuclear weapons may incite military attacks by enemies and by other supporting countries.,2.0095549,-1.9352075,0,1
+1959,An international ban should be placed on the export of nuclear reactor technology,Public acknowledgement of the right to nuclear deterrence will benefit the public regulation of nuclear weapons generally,-0.82101065,1.1102443000000002,1,0
+1960,An international ban should be placed on the export of nuclear reactor technology,Nuclear weapons give states valuable agenda-setting power on the international stage,-0.15926036,0.45952535,1,0
+1963,An international ban should be placed on the export of nuclear reactor technology,"All countries have a right to defend themselves with nuclear weapons, even when they lack the capacity in conventional weapons",0.089608885,0.24686229,1,0
+1965,An international ban should be placed on the export of nuclear reactor technology,To use  nuclear weapons in defense of the nation is lawful for all countries.,-0.27592790000000006,0.50559276,1,0
+1966,An international ban should be placed on the export of nuclear reactor technology,"countries have to right to self defense with nuclear weapons, even when they lack capacity in conventional weapon",0.14531612,0.24695992,1,0
+1968,An international ban should be placed on the export of nuclear reactor technology,Possessing nuclear weapons will be counter to the peaceful interests of states,1.8423098000000002,-1.7221851000000001,0,1
+1969,An international ban should be placed on the export of nuclear reactor technology,No country has an inherent right to invade or use aggression against another.,-0.80051434,0.9950211999999999,1,0
+1970,An international ban should be placed on the export of nuclear reactor technology,The United States has an obligation to protect international stability due to its unique military strength.,0.28030017,-0.17469372,0,1
+1974,An international ban should be placed on the export of nuclear reactor technology,"If the US does not act on Iran, Israel will",0.34773105,-0.27529365,0,1
+1975,An international ban should be placed on the export of nuclear reactor technology,Nuclear waste disposal is rarely safe/efficient; it is too much to expect a sqeaky clean disposal/disarmament of nuclear weapons  ,0.028571054,-0.022871155,0,1
+1979,An international ban should be placed on the export of nuclear reactor technology,"Small countries would no longer need the protection of larger ones, so could become more politically independent.",-0.52550304,0.66964144,1,0
+1981,An international ban should be placed on the export of nuclear reactor technology,"Disarmament would actually cause increased insecurity among nations, as there can never be any guarantee that a nation has disarmed",-0.51118755,0.5396098000000001,1,0
+1982,An international ban should be placed on the export of nuclear reactor technology,Thus the super power model will be broken and small countries will be finally given the chance to have political independence without the need of protection from a ‘big brother’.,-0.66346467,0.85795826,1,0
+1984,An international ban should be placed on the export of nuclear reactor technology,Proliferation of nuclear weapons increases the chances of nuclear accidents,0.7548626,-0.62332296,0,1
+1985,An international ban should be placed on the export of nuclear reactor technology,Nuclear weapons can fall into the wrong hands.,1.6279733,-1.4680936000000002,0,1
+1986,An international ban should be placed on the export of nuclear reactor technology,States will give terrorists nuclear weapons,0.82297957,-0.7152084,0,1
+1987,An international ban should be placed on the export of nuclear reactor technology,Terrorists will steal nuclear weapons from poorly guarded arsenals,1.2828264999999999,-1.1317636999999998,0,1
+1988,An international ban should be placed on the export of nuclear reactor technology,The nukes can end up being used against us.,0.36397552,-0.29759035,0,1
+1989,An international ban should be placed on the export of nuclear reactor technology,It's conceivable that the wrong people will have the weapons.,1.2734755,-1.0935073999999998,0,1
+1992,An international ban should be placed on the export of nuclear reactor technology,All the people worldwide have the same rights and are equal to one another. ,-0.24757326,0.5049283,1,0
+1993,An international ban should be placed on the export of nuclear reactor technology,The pursuit of nuclear defence (respectively the possession of nuclear weapons) by more countries is a guarantee for peace. ,-0.5230170999999999,0.61212134,1,0
+1994,An international ban should be placed on the export of nuclear reactor technology,any conflict will rapidly de-escalate,-0.72422826,0.9666521999999999,1,0
+1995,An international ban should be placed on the export of nuclear reactor technology,Nuclear weapons will rapidly de-escalate conflicts.,-0.6419175,0.8890734,1,0
+1996,An international ban should be placed on the export of nuclear reactor technology,Conflicts can be circumvented with nuclear weapons,-0.6156204000000001,0.8415867,1,0
+2004,Have no elections rather than sham elections,Avoids the costs and uncertainty of elections,1.3922944,-1.2340015,0,1
+2007,Have no elections rather than sham elections,Even a sham election demonstrates what the people want,-0.74869317,0.9344120000000001,1,0
+2009,Have no elections rather than sham elections,The peoples desires will always be conveyed even in false elections.,-1.0972228000000002,1.3515247,1,0
+2010,Have no elections rather than sham elections,Some kind of election is more likely to lead to real democracy than no election,-0.32619134,0.35492399999999996,1,0
+2011,Have no elections rather than sham elections,Having elections is beneficial to the end result of democracy.,-0.9691033000000001,1.2253063999999998,1,0
+2013,Polls are accurate predictors of election results,"The only accurate poll is the exit poll, as evidenced through history",-0.88755715,1.0744098,1,0
+2015,Polls are accurate predictors of election results,Exit polls have been shown to be the only accurate predictor of races.,-0.39842242,0.4605583,1,0
+2016,Polls are accurate predictors of election results,"Not all polls are accurate, except for exit poll. ",-1.9599651999999999,2.568717,1,0
+2017,Polls are accurate predictors of election results,History has proven that exit poll is the only effective poll. ,-0.68915737,0.824419,1,0
+2022,Polls are accurate predictors of election results,"People might change their mind after polling, leading to different vote results. ",-0.36464354,0.47610036,1,0
+2031,Polls are accurate predictors of election results,Polls can indicate how close the elections results are. ,0.581784,-0.44797020000000004,0,1
+2035,There Is a Mathematical Miracle in the Quran That Proves It Is the Word of God,Numbers Are Not Real but Quatities Are.,-0.55812323,0.57384026,1,0
+2036,There Is a Mathematical Miracle in the Quran That Proves It Is the Word of God,You can do the same kind of thing with any lengthy book (Moby Dick is famously often used),-1.9323008999999998,2.5717964,1,0
+2046,Water Should Be Owned And Supplied By The State,Terrifying is the idea of state owned water.,-0.9730681000000001,1.1670781000000001,1,0
+2048,Water Should Be Owned And Supplied By The State,What to do with the poorest of the world?,-1.0137026,1.2697227,1,0
+2049,Water Should Be Owned And Supplied By The State,What can be done for the world's most impoverished?,-1.9469241000000002,2.60703,1,0
+2050,Water Should Be Owned And Supplied By The State,What can possibly be done on behalf of the world's poorest citizens?,-0.42712159999999993,0.46678290000000006,1,0
+2052,Hillary Clinton would make a better president for America,Obama is more willing to do what is right for the country,-2.0732310000000003,2.689276,1,0
+2053,Hillary Clinton would make a better president for America,Obama would make sacrifices for the greater good.,-1.5378063,2.0410738,1,0
+2054,Hillary Clinton would make a better president for America,Obama is more invested in the health of the nation.,-1.9676499,2.5929518,1,0
+2056,Hillary Clinton would make a better president for America,Clinton seems prideful and vain.,-0.45473695,0.47199917,1,0
+2060,Hillary Clinton would make a better president for America,Hillary has far more experience than Obama,0.7347286999999999,-0.6449893,0,1
+2071,Online gambling has to be banned,Cant enforce an online gambling ban,-0.79782826,0.96115094,1,0
+2078,Online gambling has to be banned,Gambling is not good for someone like you.,0.15420894,-0.14114437,0,1
+2083,Online gambling has to be banned,Government only objects to online gambling because they dont benefit,-0.7228646,0.7958018,1,0
+2084,Online gambling has to be banned,"If the Government could receive tax dollars on online gambling, they would support it.",-0.884216,1.101321,1,0
+2085,Online gambling has to be banned,Government officials only oppose online gambling because it is not taxed.,-0.06942092,0.09612281,1,0
+2094,Atheist countries are more benevolent,Norway still the world's best place to live (With 70% atheists),0.34368712,-0.3164671,0,1
+2095,Atheist countries are more benevolent,"Norway is 70%  atheist, but is still the world's best place to live.",0.10499869,-0.09204648,0,1
+2102,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,"By reducing the number of sharks in the ocean for soup, the number of attacks on humans is reduced",-1.9819328999999999,2.634579,1,0
+2103,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Killing sharks in moderation through quotas would allow the shark fin soup trade to continue.,-0.21819524,0.18962969,1,0
+2104,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Killing sharks in moderations by way of quotas allows shark fin soup trade to continue.,-0.68396246,0.7738736999999999,1,0
+2105,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Shark fin soup trade can continue due to quotas making shark kills in moderation.,-0.94063365,1.1509502,1,0
+2106,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Eating shark fin soup actually damages human health.,2.5194836,-2.5386465,0,1
+2108,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Sharks don't produce the amount of young in order to replenish population deficits attributed to overfishing.,0.18020543,-0.18375655,0,1
+2109,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Sharks cannot produce the quantity of young needed to replenish their populations as a result of overfishing.,0.14976612,-0.17355242,0,1
+2111,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Not allowing Shark's fin soup will just put it on the black market,-0.44054356,0.4406013,1,0
+2112,A Ban on Shark Fin Soup Is Necessary to Protect the Shark from Extinction,Making laws against shark's fin soup will just put it on the black market.,-0.40312088,0.4018703,1,0
+2114,Governments Should Put Wealth Redistribution Ahead Of Wealth Creation,Redistribution is a moral anathema.,-1.8021099999999999,2.3926887999999997,1,0
+2118,Show the darker side of the formation of the nation,Damages the country’s reputation,-0.91245365,1.1111794,1,0
+2130,The ICC should have its own enforcement arm,With ICC Enforcement we would have more violators brought to trial.,1.88241,-1.8056428,0,1
+2133,The ICC should have its own enforcement arm,The relations of the ICC and state parties would deteriorate if the ICC had its own enforcement arm.,-1.8982737,2.5730286,1,0
+2148,The 2022 Football World Cup must be moved to the winter,Heat will damage player's health,2.974195,-3.14858,0,1
+2149,The 2022 Football World Cup must be moved to the winter,heat can hurt the health of a player,2.973343,-3.1358032000000002,0,1
+2150,The 2022 Football World Cup must be moved to the winter,heat can hurt people,2.922544,-3.042774,0,1
+2151,The 2022 Football World Cup must be moved to the winter,It would Interfere with other competitions,-0.9904924999999999,1.206832,1,0
+2152,The 2022 Football World Cup must be moved to the winter,It would cause interference as concerning other competitions.,-0.17226948,0.16847306,1,0
+2158,The 2022 Football World Cup must be moved to the winter,It wouldn't be just to move now for the other bidders.,-0.3880975,0.3935877,1,0
+2161,The 2022 Football World Cup must be moved to the winter,A sporting event in the heat of a desert summer will not be a pleasant experience for the fans,0.62690306,-0.575645,0,1
+2162,The 2022 Football World Cup must be moved to the winter,heat is not good for sports,1.29138,-1.1685313999999998,0,1
+2163,The 2022 Football World Cup must be moved to the winter,heat at events hurts sporting fans,2.7586884,-2.8244228,0,1
+2164,physical fitness is better than mental fitness,Mental health can impact on physical health,-0.62728024,0.7736771,1,0
+2165,physical fitness is better than mental fitness,Depends on your goals in life.,-0.112921715,0.12304021,1,0
+2166,physical fitness is better than mental fitness,"pretty people(great skin,great health resulting from physical prowess) have a one-up on everything",0.49341112,-0.3190322,0,1
+2167,physical fitness is better than mental fitness,Pretty people get advantage,0.3097394,-0.21050867,0,1
+2174,The threat of Climate Change is exaggerated,"Earth's climate has always warmed and cooled, and the 20th century rise in global temperature is within the bounds of natural temperature fluctuations over the past 3,000 years. ",-1.4150158000000002,1.8794949,1,0
+2175,The threat of Climate Change is exaggerated,Lack of scientific understanding,-0.92904854,1.0991191999999999,1,0
+2178,The threat of Climate Change is exaggerated,Predictions of accelerating human-caused climate change are based upon computerized climate models that are inadequate and incorrect. ,-0.6658474,0.72929883,1,0
+2179,The threat of Climate Change is exaggerated,Computerized models produce inadequate and incorrect results in predictions of accelerating human-caused climate change.,-0.21090288,0.18133603,1,0
+2188,The threat of Climate Change is exaggerated,"The acidity levels of the oceans are within past natural levels, and the current rise in acidity is a natural fluctuation, not the result of human caused climate change. ",-0.7519188,0.88039875,1,0
+2191,The threat of Climate Change is exaggerated,"Rising levels of atmospheric CO2 do not necessarily cause global warming, which contradicts the core thesis of human-caused climate change. ",-0.5777485,0.5957511,1,0
+2193,The threat of Climate Change is exaggerated,"It is natural for glaciers to grow and recede, which does not necessarily have to do with human activities.  ",-0.045010604,0.06960356,1,0
+2194,The threat of Climate Change is exaggerated,Glaciers grow and recede by nature. Humans aren't responsible for it. ,-0.44054028,0.44031537,1,0
+2197,The agreement between Russia and Great Britain in 1907 was inevitable,National level: Both Britain and Russia overstretched     ,0.50056756,-0.41985062,0,1
+2198,The agreement between Russia and Great Britain in 1907 was inevitable,International level: Anglo-German Alliance possibility,-0.76376677,0.84796304,1,0
+2199,The agreement between Russia and Great Britain in 1907 was inevitable,The UK and Germany had the potential to create an alliance in the early 1900's.,-1.2449666000000001,1.631951,1,0
+2200,The agreement between Russia and Great Britain in 1907 was inevitable,An Anglo-German alliance at the international level is a distinct possibility.,-0.738053,0.83292365,1,0
+2202,The agreement between Russia and Great Britain in 1907 was inevitable,International level: Anglo Russian Competition,-0.63551974,0.6871352,1,0
+2203,The right to asylum should not be absolute,We must practice what we preach,-0.23371743,0.17135571,1,0
+2215,"We must be a libertarian; right or left, right or wrong",Libertarians want a world where everyone fends for themselves.,-1.1778495,1.5396254999999999,1,0
+2217,"We must be a libertarian; right or left, right or wrong",Libertarianism only works – even in theory – if you start off with a level pl,-1.0566062,1.3080618,1,0
+2219,"We must be a libertarian; right or left, right or wrong","Libertarians have no policy ideas, but still want to be able to criticize others. ",-0.26714534,0.25053126,1,0
+2220,"We must be a libertarian; right or left, right or wrong","Libertarianism is a movement led by people who have no ideas on how to fix things, but criticize those that do.",-0.9113870999999999,1.0644073,1,0
+2226,German prosecutors should investigate NSA surveillance of Angela Merkel,Will the investigation get anywhere; who should be prosecuted?,-0.18467920000000002,0.22598244,1,0
+2227,German prosecutors should investigate NSA surveillance of Angela Merkel,Will the investigation bear fruit? Will someone be prosecuted?,-0.34502178,0.33129084,1,0
+2228,There is life on other planets,"NO,NO SOLID PROOF",-0.7006481,0.83367497,1,0
+2231,There is life on other planets,Why are aliens humanoids?,2.5028012000000004,-2.5144083,0,1
+2234,There is life on other planets,are we lonely in this huge universe?,1.3441645,-1.1527094,0,1
+2236,There is life on other planets,Not enough sources for life to be supported.,-2.0215156000000003,2.6467814,1,0
+2239,There is life on other planets,No life sustaining features,-0.89763516,1.0712113,1,0
+2244,We must support the Scottish Independence,"Scotland needs English economic muscle as through the Barnett formula England, especially the Southeast effectively subsidizes the rest of the UK in general and Scotland in particular ",-1.4095538,1.7922798,1,0
+2249,We must support the Scottish Independence,The union has worked for over three hundred years and most people feel comfortable with the joint Scots/British identity ,-1.9229669999999999,2.5512426,1,0
+2254,It does matter where you go to university or college,Some universities are more prestigious than others.,1.0138718,-0.8961599,0,1
+2265,Music should be free for all,"were can they get money to fend for their families as to some it""s proffession",-1.6874858,2.2525597,1,0
+2266,Music should be free for all,"For some people music making is a profession, and they have families to support.",-1.9250761000000003,2.5912613999999996,1,0
+2267,Music should be free for all,Where can professional musicians get money to fend for their families?,-1.6034731000000002,2.09915,1,0
+2268,Music should be free for all,This may actually cause the music industry to die out,-0.69550776,0.81785023,1,0
+2271,Music should be free for all,Free music throttles (strangles) freedom of artistic expression ,-0.9649173000000001,1.2113812,1,0
+2275,Music should be free for all,Most people already get it for free already.,0.5820639,-0.57122535,0,1
+2278,Music should be free for all,It Takes Money To Make Music,-0.7055186999999999,0.8428136,1,0
+2280,Music should be free for all,Creating music requires money.,-1.7007343000000001,2.257443,1,0
+2281,Danish newspapers should not have published cartoons depicting the Prophet Mohammed,Citizens of western liberal democracies should never be required to adhere to religious norms that they do not hold,-0.4694556,0.44059149999999997,1,0
+2282,Danish newspapers should not have published cartoons depicting the Prophet Mohammed,"In a democratic society, even religious norms can be questioned.",-0.571804,0.59013623,1,0
+2284,The Illegality Of Recreational Drugs Does More Harm Than Good,People selling illegal recreational drugs are raking it in.,-0.65234846,0.719065,1,0
+2285,The Illegality Of Recreational Drugs Does More Harm Than Good,People who sell illegal drugs are making bunches of money.,-0.6768491,0.777784,1,0
+2286,The Illegality Of Recreational Drugs Does More Harm Than Good,Allowing drug use is wrong – Prohibition must remain,-0.53105664,0.5850774000000001,1,0
+2288,The Illegality Of Recreational Drugs Does More Harm Than Good,"The government has a responsbility to discourage the use of dangerous activities, such as the use of drugs.",-0.7762223,0.89494616,1,0
+2289,The Illegality Of Recreational Drugs Does More Harm Than Good,"The government must not endorse the use of drugs, which are dangerous.",0.008929036999999999,0.01002999,1,0
+2300,We should drop the sanctions against Cuba.,Sanctions are necessary for national security,-0.945783,1.1598153,1,0
+2301,We should drop the sanctions against Cuba.,The national well-being is best served by the continuation of economic sanctions against Cuba,-1.4758183,2.037289,1,0
+2302,We should drop the sanctions against Cuba.,Cuba deserves sanctions,-1.3368316999999998,1.7310747,1,0
+2303,We should drop the sanctions against Cuba.,Economic punishment is what Cuba should be subject to,-1.30227,1.6899732,1,0
+2304,We should drop the sanctions against Cuba.,The actions of the Cuban government have merited the Cuban government economic penalty,-1.4910966,1.9783248,1,0
+2314,We should drop the sanctions against Cuba.,"Where the people and not the government shoulder the burden, sanctions don't work.",0.20060925,-0.17476441,0,1
+2318,We should drop the sanctions against Cuba.,The embargo enables the United States to apply pressure on the Cuban government to improve human rights. ,-1.4123458,1.9040723999999998,1,0
+2322,We should drop the sanctions against Cuba.,The United States should maintain the Cuba embargo because Cuba has not met the conditions required to lift it. ,-1.0903307,1.3730018,1,0
+2323,We should drop the sanctions against Cuba.,Ending the embargo before the Cuban government meets the conditions specified by US law would make the United States look weak. ,-1.2012778999999998,1.5359777000000001,1,0
+2326,We should drop the sanctions against Cuba.,Cuba should be subject to sanctions because it is known to have repeatedly supported acts of terrorism. ,-1.7532548,2.3722725,1,0
+2327,We should drop the sanctions against Cuba.,Cuba is knows to sponsor terrorism so sanctions are appropriate.,-1.555489,2.0836954,1,0
+2328,We should drop the sanctions against Cuba.,"Because Cuba supports terrorism, it should have sanctions levvied against it.",-1.6270418,2.1391392000000002,1,0
+2329,We should drop the sanctions against Cuba.,The United States is able to target the Cuban government with its embargo while still providing assistance to Cuban citizens. ,-1.3907114999999999,1.8462421000000002,1,0
+2330,We should drop the sanctions against Cuba.,The embargo should be maintained because open travel is insufficient to promote change in Cuba; many democratic countries already allow travel to Cuba with no results. ,-1.5162252,2.0292752,1,0
+2331,We should drop the sanctions against Cuba.,The embargo must be upheld as others have allowed open travel with no results.,-0.8142893,0.9963219000000001,1,0
+2332,We should drop the sanctions against Cuba.,Open travel to Cuba has not yielded change so the embargo should continue.,-1.1288848999999999,1.3729471000000002,1,0
+2337,We should drop the sanctions against Cuba.,"The Cuban government has consistently responded to US attempts to soften the embargo with acts of aggression, raising concerns about what would happen if the sanctions were fully lifted. ",-1.7941041000000002,2.4498515,1,0
+2341,We should drop the sanctions against Cuba.,The uncertainty over who will succeed Raúl Castro makes it unwise for the United States to change its policy before a new leader is in place. ,-0.88348126,1.1147472999999999,1,0
+2342,We should drop the sanctions against Cuba.,"There is no definitive replacement for Raul Castro, which makes it unwise for the US to implement new policies at this time.",-0.78658897,0.9452484,1,0
+2343,We should drop the sanctions against Cuba.,"Until the US knows who will replace Raul Castro, it does not make sense to put new policies in place.",-0.62773466,0.7204013000000001,1,0
+2344,We should drop the sanctions against Cuba.,Cuba has not demonstrated a willingness to negotiate in good faith with the United States. ,-1.1897986999999999,1.4681151000000001,1,0
+2345,We should drop the sanctions against Cuba.,Cuba seems unwilling to negotiate with the US.,-1.3458021999999998,1.785816,1,0
+2346,We should drop the sanctions against Cuba.,Cuba seems reluctant to genuinely engage with the US.,-1.3281411,1.7302377,1,0
+2347,Use and Misuse of Internet,A lot of research points to the fact that internet/television addiction causes grades to suffer and is bad also for your eyes,0.9683013,-0.8640684999999999,0,1
+2351,Plastic Bags should be banned,so what do we carry our shopping in?,-0.00627473,0.06875297400000001,1,0
+2354,Plastic Bags should be banned,PLASTIC BAGS DONT HARM THE ENVIRONMENT,-0.6959901999999999,0.7992627,1,0
+2356,Plastic Bags should be banned,Causes expense to consumers in a time of recession,-1.8512336999999999,2.4113187999999997,1,0
+2357,Plastic Bags should be banned,"NO,need to ban just reduce the use of plastic",-0.3432827,0.36186665,1,0
+2358,We should support enforcing term limits on the executive branch of government,"A strong, consistent executive may be desirable in many cases.",-1.9929191000000002,2.6446287999999996,1,0
+2359,We should support enforcing term limits on the executive branch of government,"There are some circumstances when one would want a strong, consistent executive branch of government in place.",-1.7035171000000002,2.2810235,1,0
+2361,We should support enforcing term limits on the executive branch of government,It may at some point be desirable to keep around a certain executive longer than terms decide,-1.1894666,1.4950348999999998,1,0
+2363,We should support enforcing term limits on the executive branch of government,Freeing the executive from re-election concerns can help focus attention on the public interest,-1.9195249,2.5928763999999997,1,0
+2365,We should support enforcing term limits on the executive branch of government,Longer terms for Politicians could lead to unfairness in governing,2.8893400000000002,-3.029203,0,1
+2366,We should support enforcing term limits on the executive branch of government,"If a single leader sits on the throne for too long, it's more likely for the leader to exploit his or her power. ",1.2299136999999998,-1.151465,0,1
+2367,We should support enforcing term limits on the executive branch of government,"The longer a politician remains in office, the more entrenched his grip becomes, and the more likely he is to use his office to his personal advantage:",0.05608247,-0.010946378,0,1
+2369,We should support enforcing term limits on the executive branch of government,"the longer someone is  in power, the more likely he will use it for personal advantage",0.65459687,-0.49647644,0,1
+2374,We should support enforcing term limits on the executive branch of government,Term limits should be voted on ,-1.6583346,2.2175634,1,0
+2379,We should support enforcing term limits on the executive branch of government,Term limits allows new blood in the office and prevents one leader from staying in power for too long.,2.4838598,-2.617489,0,1
+2380,We should support enforcing term limits on the executive branch of government,Term limits check the power of incumbency as an election-winning tool and allow new and energetic leaders and ideas to flourish.,0.28878105,-0.25502240000000004,0,1
+2389,We should support enforcing term limits on the executive branch of government,"The executive branch of government, having no countervailing voices to the leader s’ within it, must be checked by limiting tenancy in office.",1.4503051000000002,-1.3476665,0,1
+2390,We should support enforcing term limits on the executive branch of government,"By imposing a term limit in office, we can limit the power of executive branch of government.",2.2192497,-2.2570763,0,1
+2393,We should support enforcing term limits on the executive branch of government,the executives brances with no opposing voices to the leaders must be imposed term limits,1.6452916000000002,-1.577559,0,1
+2394,We should support enforcing term limits on the executive branch of government,congress needs term limits to ensure different points of views ,0.122621685,-0.033803374,0,1
+2395,We should support enforcing term limits on the executive branch of government,The incentive for corruption and self-enrichment in office is increased by term limits:,-0.5393621999999999,0.6837954,1,0
+2399,Launching a military coup against a democratic government can be justified,A military coup could be justified but it would make democracy fragile.,-1.9860578999999998,2.6339992999999997,1,0
+2401,Launching a military coup against a democratic government can be justified,"Even if there is justification to launch a coup against the government, having the army ruling after that could be worse.",-1.9825596999999997,2.6204283,1,0
+2403,Bribery is sometimes acceptable,Bribery is sometimes the cost of doing business,2.4566464,-2.444537,0,1
+2404,Bribery is sometimes acceptable,Bribery is occasionally a necessary price of engaging in business.,0.17837529,-0.07297525,0,1
+2405,Bribery is sometimes acceptable,Sometimes bribery is a required cost of business,2.0526276,-2.0015810000000003,0,1
+2406,Bribery is sometimes acceptable,Bribery is morally wrong,-1.4810371,1.9962041000000001,1,0
+2413,Bribery is sometimes acceptable,Individuals may have no choice,2.5821902999999997,-2.629685,0,1
+2414,Bribery is sometimes acceptable,Variation in standards leads to a ‘race to the bottom’ of corruptibility,-0.2755261,0.31355652,1,0
+2415,Bribery is sometimes acceptable,Bribery is only wrong under a Western-centric notion of corruption,0.11143885,0.009824671,0,1
+2416,Bribery is sometimes acceptable,Bribery is not considered wrong in all cultures.,1.6791391,-1.5908243999999998,0,1
+2419,Opinion polls harm the democratic process,Politicians can rely on opinion polls.,-0.28447935,0.31547332,1,0
+2422,The human genome should be patented,Cruelty to animals 90% death rate cloning project,-1.0814108999999998,1.3538351,1,0
+2423,The human genome should be patented,Cloning projects with 90% death rate is cruelty to animals.,-1.0873408000000002,1.3614445,1,0
+2424,The human genome should be patented,Cloning projects are cruelty to animals since they have a 90% death rate.,-0.29028255,0.30950135,1,0
+2429,Abolish the US Electoral College,The Electoral College ensures that all parts of the country are involved in selecting the President of the United States. ,-1.4917524,1.9903467000000001,1,0
+2430,Abolish the US Electoral College,The electoral college prevents a tyranny of the majority.,-1.8284571,2.4025178,1,0
+2431,Abolish the US Electoral College,The electoral college weakens incentives for voting and party building.,0.28202862,-0.32814473,0,1
+2432,Abolish the US Electoral College,The electoral college makes certain voters decline to vote.,0.020282194,-0.06007658,0,1
+2433,Abolish the US Electoral College,Voters and party builders are undermined by the electoral college.,2.0757127,-1.9925514,0,1
+2434,Abolish the US Electoral College,"With the electoral college in place, it weakens people's incentives for voting.",2.3650580000000003,-2.3864357000000003,0,1
+2435,Abolish the US Electoral College,The electoral college goes against the democratic system because it hinders party building and has a negative impact on voting.,2.7453418,-2.8270352,0,1
+2436,Abolish the US Electoral College,"The electoral college forces candidates to win broad coalitions across the country, encouraging national harmony.",-1.9264321,2.530424,1,0
+2437,Abolish the US Electoral College,"Casting votes by state forces candidates to be attentive to local interests, which they would otherwise ignore in a national campaign.",-0.22168934,0.19117984,1,0
+2438,Abolish the US Electoral College,The electoral college violates the democratic principle of equality in voting,0.70646596,-0.7261116,0,1
+2439,Abolish the US Electoral College,The electoral college violates principles of equity.,0.09336892,-0.16086029999999998,0,1
+2440,Abolish the US Electoral College,America's electoral college should be done away with because it violates the democratic principle of equality in voting.,0.11087021,-0.03199448,0,1
+2441,Abolish the US Electoral College,The electoral college is just a violation of voter equality.,1.8624859,-1.7188168000000001,0,1
+2442,Abolish the US Electoral College,The electoral college violates the democratic principle that the winner should be the candidate receiving the most votes.  ,1.5819584,-1.5676886,0,1
+2443,Abolish the US Electoral College,The electoral college goes against the idea that whoever earns the most votes wins.,1.189172,-1.1382577,0,1
+2445,Abolish the US Electoral College,The reasons for which the Founding Fathers created the Electoral College are no longer relevant.,1.445691,-1.3631991,0,1
+2446,Abolish the US Electoral College,"The Electoral College gives too much power to ""swing states"" and allows the presidential election to be decided by a handful of states.",0.065913305,-0.110224694,0,1
+2447,Abolish the US Electoral College,The Electoral College ignores the will of the people. ,0.97214574,-0.9183658000000001,0,1
+2448,Abolish the US Electoral College,The Electoral College guarantees certainty to the outcome of the presidential election.,-2.0576553,2.6760832999999997,1,0
+2450,We should fear the power of government over the Internet,Internet regulation is necessary to ensure a safe internet,-0.5772854000000001,0.6216396,1,0
+2451,We should fear the power of government over the Internet,A regulated internet is a safe internet.,-0.88793445,1.102663,1,0
+2453,We should fear the power of government over the Internet,Internet governance is necessary to combat heinous crimes committed via the internet,-1.3498236000000001,1.9061352999999999,1,0
+2454,"Film stars, music stars and other popular entertainers should not be participating in party-political campaigns",Personality politics is harmful to the democratic process,0.2495924,-0.21875127,0,1
+2455,"Film stars, music stars and other popular entertainers should not be participating in party-political campaigns",Celebrities becoming involved in politics can be detrimental to democracy.,0.8347062,-0.66874427,0,1
+2462,"Film stars, music stars and other popular entertainers should not be participating in party-political campaigns",This is an unjust use of unelected power,0.6088581,-0.47360843,0,1
+2465,Romeo and Juliet is unsuccessful as a tragedy,It does not focus on moral condemnation of the couple but of passion of love,-0.7569951,0.87364787,1,0
+2467,Stop the Olympic Games,It  sanctions and encourages 'Islamophobic' panics and promotes the excessive 'securitisation' of the globe,0.33963013,-0.28486332,0,1
+2468,Stop the Olympic Games,This would result in Islamophobic panics and knee jerk reactions across the world.,2.794764,-2.8596284,0,1
+2469,Stop the Olympic Games,Islamophobic panic and excessive security would be sanctioned by this action.,1.1157378999999998,-1.0265045,0,1
+2470,Stop the Olympic Games,The Olympic spirit is a universal message for peace and togetherness,-1.9570694,2.629683,1,0
+2471,Stop the Olympic Games,Part of the Olympic spirit is to remind everyone that we are all human and should respect one another.,-1.6327399,2.1451564,1,0
+2472,Stop the Olympic Games,"The host city becomes an international hotspot for business investment, develops a new 'creative industry' and encourages new practices of cultural consumption",-1.9706715,2.5750224999999998,1,0
+2473,Stop the Olympic Games,It is an honour for the host city and provides global recognition,-1.9764531000000003,2.6001458,1,0
+2474,Stop the Olympic Games,Hosting the Olympic Games for the first time can be historic for a nation.,-2.0714092,2.6491709,1,0
+2475,Stop the Olympic Games,The Olympics displace and burden residents of the host country and city. ,2.6484134,-2.705103,0,1
+2476,Stop the Olympic Games,The Olympics place a strain on the residents of the host city and country.,2.8988779,-3.0278277,0,1
+2477,Stop the Olympic Games,Hosting the Olympics can be more trouble than it's worth for those who live there.,0.57650506,-0.5081718,0,1
+2478,Stop the Olympic Games,The Olympics increase a host country's global trade and stature.,-1.9441183000000002,2.537169,1,0
+2479,Stop the Olympic Games,"The Olympics increase valuable tourism, which can boost local economies",-2.04134,2.6848537999999995,1,0
+2480,Stop the Olympic Games,The Olympics create a sense of national pride. ,-2.021818,2.6262422,1,0
+2481,Stop the Olympic Games,Benefits of hosting the olympic games.,-1.1629794,1.4030591000000001,1,0
+2485,The United Nations Security Council should be expanded,The current Security Council doesn't reflect the economic reality of the 21st century.,1.2440319,-1.1736423999999999,0,1
+2489,The United Nations Security Council should be expanded,There is a growing imbalance between developing and developed countries representation in the Council.,0.88770175,-0.7623274999999999,0,1
+2491,The United Nations Security Council should be expanded,The many various interests and the demands makes a UNSC reform really tough to achieve.,-0.030873269,0.0076853335,1,0
+2499,Grant politicians immunity from prosecution,Immunity creates a perverse incentive to hang on to their office as long as possible.  ,-0.7401116,0.904159,1,0
+2501,Grant politicians immunity from prosecution,The ability to prosecute politicians is the ultimate protection against the abuse of power.  ,-0.5405343,0.68743265,1,0
+2504,Grant politicians immunity from prosecution,In the event of major abuses of power it should be the public that holds politicians to account.  ,-0.6922902,0.791589,1,0
+2505,Grant politicians immunity from prosecution,The public should be made aware of major abuses of power so that they can hold politicians accountable,-1.1094574,1.4791528999999999,1,0
+2506,Grant politicians immunity from prosecution,Immunity for politicians hurts the image of their office,-0.5739145999999999,0.6496284999999999,1,0
+2510,All illegal immigrants must be repatriated,Alternatives are better,-0.7343566999999999,0.9001361999999999,1,0
+2511,All illegal immigrants must be repatriated,Repatriation is expensive and unrealistic,-0.8567617000000001,1.0238334,1,0
+2515,All illegal immigrants must be repatriated,"People should not be made to return to their own country, it's just wrong!",-0.05349146,0.068842106,1,0
+2518,We should not slaughter animals which have not been stunned first.,slaughtering without proper procedure results in pain,1.3390634,-1.2197453,0,1
+2519,We should not slaughter animals which have not been stunned first.,"Unless animals are stunned prior to being slaughtered, the slaughter will cause the animal great pain. ",0.21546882,-0.23018813,0,1
+2525,Abolish congressional earmarks,Earmarks transfer too much power to political parties' central leadership,0.06977967,-0.06691502,0,1
+2526,Abolish congressional earmarks,Earmarks allow the leaders of political parties to be too powerful.,1.2937788000000001,-1.2326579,0,1
+2527,Abolish congressional earmarks,Earmarks give the central leaders of political parties too much leverage. ,1.2235713,-1.1986108999999998,0,1
+2529,Abolish congressional earmarks,Earmarks contribute to a loss of confidence in the government.,1.5299771,-1.4362546999999999,0,1
+2530,Abolish congressional earmarks,Earmarks make people suspicious of the government. ,2.518348,-2.5523702999999998,0,1
+2534,Abolish congressional earmarks,Earmarks are against our basic principles of fairness.,0.21898837,-0.13931306,0,1
+2535,Abolish congressional earmarks,Earmarks aren't fair to everyone. ,1.0187648999999999,-0.89935297,0,1
+2543,Abolish congressional earmarks,Congress is one of the checks of the check and balance system that reins in the executive branch.,0.013028248999999999,0.020800535,1,0
+2544,Abolish congressional earmarks,Earmarks do not represent an efficient use of taxpayers' money,0.36961973,-0.3526988,0,1
+2545,Abolish congressional earmarks,Earmarks waste the taxpayer's money.,0.20957518,-0.16864492,0,1
+2546,Abolish congressional earmarks,Earmarks aren't the best way to spend tax dollars. ,1.1012701,-1.0175072,0,1
+2554,We should pull out of the Article 98 Agreements that prevent US soldiers from being sent to the ICC for trial,To maintain good US relations with the world we must follow Article 98.,-1.3089256999999999,1.6721396000000002,1,0
+2556,We should pull out of the Article 98 Agreements that prevent US soldiers from being sent to the ICC for trial,Article 98 Agreements are a crucial tool in maintaining American national sovereignty,-1.3119965,1.7670995999999999,1,0
+2557,We should pull out of the Article 98 Agreements that prevent US soldiers from being sent to the ICC for trial,National sovereignty is dependent on Article 98.,-1.2621313,1.6357571000000002,1,0
+2558,We should pull out of the Article 98 Agreements that prevent US soldiers from being sent to the ICC for trial,To have national sovereignty we must follow Article 98.,-0.71109325,0.8246921999999999,1,0
+2563,Dictatorship is the best path to development,"Democracy acts in the interest of the general population, which is good for development",-2.056571,2.690487,1,0
+2567,Dictatorship is the best path to development,Democratic rule of law is the best ground for political stability and growth,-1.9813113000000002,2.6223652000000004,1,0
+2568,Dictatorship is the best path to development,Democracy lets a country grow naturaly,-0.48819086,0.5071038,1,0
+2583,Dictatorship is the best path to development,Dictatorship will stop all path of development in a democratic country ,-0.40530533,0.48105785,1,0
+2585,Dictatorship is the best path to development,"Dictatorship brings profit to dictators and its clique, but not to the citizens",-0.3289038,0.30451822,1,0
+2589,Dictatorship is the best path to development,Democracies are more likely to be economically successful,-2.0087142,2.6708615,1,0
+2590,Dictatorship is the best path to development,Democracies do better at meeting economic needs.,-1.958839,2.622465,1,0
+2591,Dictatorship is the best path to development,People's needs are met best in democracies.,-1.9707976999999999,2.6529973,1,0
+2592,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,[Iran specific] Iran has threatened to destroy Israel,1.9668484,-1.8852565,0,1
+2594,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,No country has an inherent right to invade or use aggression against another.,-0.26428068,0.277206,1,0
+2595,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,The United States has an obligation to protect international stability due to its unique military strength.,0.6958335,-0.60346425,0,1
+2599,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"If the US does not act on Iran, Israel will",0.40432677,-0.33529657,0,1
+2600,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Humanitarian intervention becomes impossible in states that possess nuclear weapons,1.573291,-1.4773718999999998,0,1
+2601,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Humanitarian missions would not be possible in states that have nuclear weapons.,2.2066746,-2.206557,0,1
+2602,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,It is very difficult to intercede in humanitarian crises in states wherein nuclear weapons are present.,2.2079265,-2.1760302000000005,0,1
+2603,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,The threat of a state developing nuclear weapons could instigate pre-emptive strikes from its neighbours and rivals to prevent the acquisition of such weapons,2.8862476000000004,-2.990891,0,1
+2604,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Other countries could strike against those developing nuclear weapons to protect themselves.,2.8365097,-2.9631147,0,1
+2605,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"To keep other countries from obtaining a nuclear arsenal, other nations may pre-emptively strike.",1.8759192,-1.8174561999999999,0,1
+2606,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,The intention of a state to develop nuclear weapons may incite military attacks by enemies and by other supporting countries.,2.839675,-2.9964256000000002,0,1
+2607,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Public acknowledgement of the right to nuclear deterrence will benefit the public regulation of nuclear weapons generally,-1.9026928,2.522634,1,0
+2608,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Nuclear weapons give states valuable agenda-setting power on the international stage,-1.907725,2.51701,1,0
+2609,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Countries with nuclear weapons have the ability to set their own agenda.,-1.7741473,2.3720355,1,0
+2610,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,States with nuclear weapons are afforded more authority to set agendas at international levels.,-2.0472363999999996,2.6488218,1,0
+2611,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"All countries have a right to defend themselves with nuclear weapons, even when they lack the capacity in conventional weapons",-1.7914866000000003,2.42901,1,0
+2612,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,All states have a right to nuclear self-defense.,-1.7579354999999999,2.3544245,1,0
+2613,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,To use  nuclear weapons in defense of the nation is lawful for all countries.,-1.9972148,2.6402382999999996,1,0
+2614,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"countries have to right to self defense with nuclear weapons, even when they lack capacity in conventional weapon",-1.876054,2.5851676,1,0
+2615,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"all countries are entitled to self defense with nuclear weapons, even when they do not have the capacity to carry conventional weapons",-1.7458848999999999,2.346561,1,0
+2616,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Possessing nuclear weapons will be counter to the peaceful interests of states,2.6086563999999997,-2.6306891,0,1
+2617,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Nuclear waste disposal is rarely safe/efficient; it is too much to expect a sqeaky clean disposal/disarmament of nuclear weapons  ,0.7751726999999999,-0.7000430999999999,0,1
+2618,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"Disarmament is impossible, rendering efforts to disarm pointless and simply wasteful",-1.0611339,1.3094796999999998,1,0
+2623,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Proliferation of nuclear weapons increases the chances of nuclear accidents,2.6462545,-2.6667316000000003,0,1
+2624,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Nuclear weapons can fall into the wrong hands.,2.8268828,-2.9118787999999998,0,1
+2625,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,The nukes can end up being used against us.,1.4266145000000001,-1.3381305000000001,0,1
+2626,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,States will give terrorists nuclear weapons,2.5326347,-2.5630933999999996,0,1
+2627,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,It's conceivable that the wrong people will have the weapons.,2.1587129000000003,-2.1024928,0,1
+2628,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Irrational leaders make the possession of nuclear weapons dangerous,1.9084550999999998,-1.8499580000000002,0,1
+2629,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,It is immoral to use the threat of nuclear annihilation in order to achieve foreign policy aims,0.91577554,-0.81073666,0,1
+2630,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"As a matter of principle, every country, including the United States, has the right to defend itself to the best of its technological and economic ability",-1.7365234,2.302245,1,0
+2631,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,"Every country, including the United States, has a sovereign right to defend itself with every available means necessary",-1.8202843999999998,2.4171723999999997,1,0
+2632,The US is Justified in Using Force to Prevent States From Acquiring Nuclear Weapons,Every sovereign nation has the right to defend itself by all means necessary,-1.909229,2.544833,1,0
+2633,"Democracy has to be imposed, if needed","Because democracy is the best form of government, it is not wrong-- and indeed may even be our obligation-- to bring it to those who do not have it.",0.8730408000000002,-0.76839525,0,1
+2635,"Democracy has to be imposed, if needed",Attempting to impose democracy may escalate conflict.,0.0012797266000000001,0.059213955,1,0
+2655,Mandatory sentencing is fine.,Mandatory minimum sentences remove undue judicial discretion. ,1.5360345,-1.4742851000000001,0,1
+2656,Mandatory sentencing is fine.,Mandatory minimum sentences make juries reluctant to convict guilty defendants. ,-1.3798308000000001,1.7482842,1,0
+2657,Mandatory sentencing is fine.,Minimum mandatory sentences reduce the chance of rehabilitation. ,-1.6306498,2.1464472000000003,1,0
+2659,Mandatory sentencing is fine.,The chance of rehabilitation is lower when minimum mandatory sentences are used.,-1.8406956,2.463406,1,0
+2661,Should the United States scale back the War on Drugs?,The War on Drugs has failed and there needs to be a new dialogue to decide on the course forward,0.5671921,-0.50201845,0,1
+2664,Should the United States scale back the War on Drugs?,Allowing drug use is wrong – Prohibition must remain,-0.86930525,1.0375626,1,0
+2665,Democracies should ban the display of communist and Nazi symbols,It would cause racial dissension,-1.1399290000000002,1.4458403999999998,1,0
+2667,Democracies should ban the display of communist and Nazi symbols,Society is ready to live with Nazi and Soviet symbols,-0.82646024,1.0567004999999998,1,0
+2668,Democracies should ban the display of communist and Nazi symbols,People in general are not opposed to Nazi and Soviet symbols.,-0.6878095999999999,0.7402276999999999,1,0
+2669,Democracies should ban the display of communist and Nazi symbols,Nazi and Soviet symbols are accepted in today's society.,-0.49645656,0.60117567,1,0
+2671,Democracies should ban the display of communist and Nazi symbols,Practical harm #1 - Encouraging extremist movements ,-1.3482177,1.6885393,1,0
+2672,Democracies should ban the display of communist and Nazi symbols,Encouraging extremist movement is definitely harmful.,-1.2870235,1.6440477,1,0
+2673,Democracies should ban the display of communist and Nazi symbols,Extremist movements are harmful and should not be encouraged.,-0.59986734,0.61745703,1,0
+2674,Democracies should ban the display of communist and Nazi symbols,Practical harm #2 - Hate speech ,-1.0371886000000001,1.2489563999999997,1,0
+2680,Nations of the world should increase protection of the economic and social rights of migrants,The protection of migrants to be as one as a familial unit is important and should be guaranteed.,0.3864442,-0.26992404,0,1
+2692,Nations of the world should increase protection of the economic and social rights of migrants,"The protection on migrants will causes them to exploit the nation's health, education and welfare systems.",-1.3532726000000002,1.7868308000000002,1,0
+2702,Nations of the world should increase protection of the economic and social rights of migrants,"Insurance of vagrants causes ""cerebrum deplete,"" which further harms the economies of source nations.",-1.2520014,1.5602931999999998,1,0
+2703,Nations of the world should increase protection of the economic and social rights of migrants,Protection of vagrants causes brain depletion  which further harms nations' economies of source,-0.75455827,0.9109746,1,0
+2704,The outcome of the Paris Climate Conference needs to be an international treaty with binding emission cuts,Only an international treaty can create penalties for non-compliance,2.4655476000000003,-2.5330596,0,1
+2707,The outcome of the Paris Climate Conference needs to be an international treaty with binding emission cuts,Only a non-binding agreement would get the targets necessary,-0.40185276,0.45083019999999996,1,0
+2708,The outcome of the Paris Climate Conference needs to be an international treaty with binding emission cuts,Sovereign states should be allowed to set their own targets and be trusted to meet them,-1.759448,2.3523593,1,0
+2709,The outcome of the Paris Climate Conference needs to be an international treaty with binding emission cuts,Meeting emission targets should be set by individual states ,-0.8832360999999999,1.086544,1,0
+2710,The outcome of the Paris Climate Conference needs to be an international treaty with binding emission cuts,Allowing sovereign states to set and meet their own emission targets is key,-1.4322894,1.8637761999999998,1,0
+2715,The House of Lords should be reformed,The House of Lords does not understand the needs of the citizens they serve.,1.8759139999999999,-1.8557054,0,1
+2716,The House of Lords should be reformed,The current House of Lords is undemocratic,0.5134088,-0.36421317,0,1
+2717,The House of Lords should be reformed,The public is apathetic to reform.,-1.6265292,2.1403818,1,0
+2718,The House of Lords should be reformed,an apathetic public can be the cause of reform,-1.4672523000000002,1.961654,1,0
+2719,NATO has succeeded in Afghanistan,An Afghanistan dominated by warlords.,-0.6651658,0.7493739,1,0
+2720,NATO has succeeded in Afghanistan,warlords hold control of afghanistans,-0.15283799,0.21853322,1,0
+2721,NATO has succeeded in Afghanistan,The Taliban will likely take over when the NATO forces leave,-0.9005438,1.110602,1,0
+2723,NATO has succeeded in Afghanistan,the taliban is waiting and likley to regain control of the region once nato forces leave,-0.39427638,0.47640902,1,0
+2739,Winning the Champions League Is Better Than Winning the Premier League,The Premiership is the most popular and successful football league in the world,-1.6748866000000002,2.1894240000000003,1,0
+2740,Winning the Champions League Is Better Than Winning the Premier League,Winning the Champions League relies more on luck than the Premier League,0.23193629999999998,-0.18557008,0,1
+2746,Illegal downloaders should be cut off from the internet,"File-sharing will still happen, despite these plans",-0.14231263,0.15002182,1,0
+2747,Illegal downloaders should be cut off from the internet,Stopping their internet  is not the way to get through to file-sharers,-0.6426546999999999,0.7395977,1,0
+2748,Illegal downloaders should be cut off from the internet,Extreme measures for illegal downloaders won't stop file-sharing,-0.83047646,0.9895892,1,0
+2749,Illegal downloaders should be cut off from the internet,Will file-sharing stop if downloaders are banned from internet use,-0.23404445,0.30138767,1,0
+2750,Illegal downloaders should be cut off from the internet,Illegal file-sharers should not be punished by cutting off their internet use,-0.88410413,1.0471901,1,0
+2751,Illegal downloaders should be cut off from the internet,Cutting off internet use will not stop file-sharers,-0.1895195,0.17835483,1,0
+2757,Illegal downloaders should be cut off from the internet,"The internet assists in accessing rights, it itself is not a right.",0.4170714,-0.27148459999999996,0,1
+2759,Illegal downloaders should be cut off from the internet,Infringement of human rights,-1.1843276000000003,1.5270846000000002,1,0
+2760,Illegal downloaders should be cut off from the internet,The right to freedom and expression necessarily includes the internet.,-0.39939833,0.45350063,1,0
+2761,Illegal downloaders should be cut off from the internet,Without access to the internet there is not freedom of information and expression in today's world.,-0.5855562,0.6761842,1,0
+2763,Illegal downloaders should be cut off from the internet,Internet access as a new human right. ,-0.55802137,0.68539417,1,0
+2764,Illegal downloaders should be cut off from the internet,The right to internet access fills a gap in traditional human rights.,-0.64309597,0.83375484,1,0
+2766,Illegal downloaders should be cut off from the internet,Human rights are infringed if internet use is removed,-1.070429,1.3394093999999999,1,0
+2767,Illegal downloaders should be cut off from the internet,Cutting off internet capability is against human rights,-0.7360314,0.8544971,1,0
+2768,Illegal downloaders should be cut off from the internet,All humans deserve internet access.,-0.9356530999999999,1.2052586,1,0
+2770,Illegal downloaders should be cut off from the internet,The internet is a utility not a human right.,0.7413423000000001,-0.5486482,0,1
