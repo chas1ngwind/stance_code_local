@@ -1,3 +1,4 @@
 prun -np 1 -t 50000 -native '-C TitanX --gres=gpu:1' python bert_base.py
 prun -np 1 -t 50000 python bert_base.py
+conda activate tf-gpu
 cd /var/scratch/syg340/project/stance_code/
