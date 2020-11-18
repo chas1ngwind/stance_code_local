@@ -6,3 +6,5 @@ add header for test.tsv
 Local Evaluation.ipynb: bert model prediction
 
 Integration of origin and opposite: analysis file
+
+conda install -c conda-forge spacy
